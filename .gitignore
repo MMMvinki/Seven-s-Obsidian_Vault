@@ -1,0 +1,25 @@
+﻿# Obsidian local UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Obsidian cache / trash
+.obsidian/cache/
+.trash/
+
+# Community plugin data that may contain tokens or machine-specific state
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Logs
+*.log
