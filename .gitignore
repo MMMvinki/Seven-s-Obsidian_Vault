@@ -23,3 +23,7 @@ desktop.ini
 
 # Logs
 *.log
+
+# Empty unnamed Obsidian Bases file accidentally created at vault root
+/鏈懡鍚?base
+
