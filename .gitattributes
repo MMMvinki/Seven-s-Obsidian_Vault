@@ -1,0 +1,22 @@
+﻿# Keep text files consistent across Windows/iOS/macOS
+* text=auto
+
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.gitignore text eol=lf
+
+# Binary attachments
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.mp4 binary
+*.mov binary
+*.mp3 binary
+*.wav binary
