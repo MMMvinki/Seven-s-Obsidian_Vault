@@ -8,6 +8,7 @@
 .trash/
 
 # Community plugins are machine-specific for now.
+.obsidian/community-plugins.json
 # This also avoids syncing plugin data that may contain tokens.
 .obsidian/plugins/
 
