@@ -1,4 +1,4 @@
-﻿# Obsidian local UI state
+# Obsidian local UI state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspaces.json
@@ -7,9 +7,12 @@
 .obsidian/cache/
 .trash/
 
-# Community plugin data that may contain tokens or machine-specific state
-.obsidian/plugins/*/data.json
-.obsidian/plugins/*/cache/
+# Community plugins are machine-specific for now.
+# This also avoids syncing plugin data that may contain tokens.
+.obsidian/plugins/
+
+# Root-level unnamed Obsidian Bases drafts
+/*.base
 
 # OS junk
 .DS_Store
@@ -23,7 +26,3 @@ desktop.ini
 
 # Logs
 *.log
-
-# Empty unnamed Obsidian Bases file accidentally created at vault root
-/鏈懡鍚?base
-
