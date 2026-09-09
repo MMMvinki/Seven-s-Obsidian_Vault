@@ -1,0 +1,13 @@
+{
+  "simulation": true,
+  "now": "2026-09-10T09:00:00+08:00",
+  "freshness_minutes": 10,
+  "event": {"id": "I-101", "road_id": "R-01", "district_id": "D-01", "verified": true, "required_capability": "sweep"},
+  "vehicles": [
+    {"id": "V-01", "district_id": "D-01", "capabilities": ["sweep"], "state": "idle", "observed_at": "2026-09-10T08:10:00+08:00", "eta_minutes": 3, "version": 1},
+    {"id": "V-02", "district_id": "D-01", "capabilities": ["sweep"], "state": "idle", "observed_at": "2026-09-10T08:58:00+08:00", "eta_minutes": 8, "version": 1},
+    {"id": "V-03", "district_id": "D-01", "capabilities": ["sweep"], "state": "busy", "observed_at": "2026-09-10T08:59:00+08:00", "eta_minutes": 5, "version": 1},
+    {"id": "V-04", "district_id": "D-02", "capabilities": ["sweep"], "state": "idle", "observed_at": "2026-09-10T08:59:00+08:00", "eta_minutes": 2, "version": 1},
+    {"id": "V-05", "district_id": "D-01", "capabilities": ["transport"], "state": "idle", "observed_at": "2026-09-10T08:59:00+08:00", "eta_minutes": 4, "version": 1}
+  ]
+}
