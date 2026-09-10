@@ -52,7 +52,7 @@ WHERE r.project_id = :project_id
 GROUP BY r.road_id, r.name;
 ```
 
-逐句理解：`LEFT JOIN` 保留没有逾期工单的道路；匹配条件限定同一项目，并筛选状态及截止时间；`COUNT(w.work_order_id)` 只数匹配工单，零工单得到 0。若使用 `COUNT(*)`，没有匹配工单的道路仍有一行占位，会被数成 1。若把 `w.status` 条件搬到 `WHERE`，空值行通常被滤掉，原本想保留的零工单道路会消失。[JOIN 的官方解释](https://www.postgresql.org/docs/current/tutorial-join.html)
+逐句理解：`LEFT JOIN` 保留没有逾期工单的道路；匹配条件限定同一项目，并筛选状态及截止时间；`COUNT(w.work_order_id)` 只数匹配工单，零工单得到 0。若使用 `COUNT(*)`，没有匹配工单的道路仍有一行占位，会被数成 1。若把 `w.status` 条件搬到 `WHERE`，空值行通常被滤掉，原本想保留的零工单道路会消失。[JOIN 的官方解释](https://www.postgresql.org/docs/current/tutorial-join.html) 状态或截止时间缺失的工单不会通过这些条件，应另外展示“无法判断数量”；否则逾期数为 0 容易被误读为全部正常。草稿是否纳入履约统计也应由业务口径决定，本例假定表中有截止时间的非关闭、非取消任务均在统计范围。
 
 再考虑：`WO-101` 有两条巡检记录。把工单表与巡检表 JOIN 后再 COUNT 工单，`WO-101` 可能被数两次。正确办法是先把巡检聚合到所需粒度，或用 `EXISTS` 判断是否存在符合条件的巡检。`COUNT(DISTINCT work_order_id)` 可解决某些计数，但不是万能补丁；它掩盖不了金额、耗时等字段被重复求和。
 
