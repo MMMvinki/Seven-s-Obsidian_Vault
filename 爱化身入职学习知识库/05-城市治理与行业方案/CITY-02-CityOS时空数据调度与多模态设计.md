@@ -51,6 +51,7 @@ SELECT vehicle_id, observed_at
 FROM vehicle_position
 WHERE district_id = :authorized_district_id
   AND observed_at >= :freshness_cutoff
+  AND observed_at <= :query_time
   AND ST_DWithin(geog, :event_geography, :radius_meters);
 ```
 
