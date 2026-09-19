@@ -1,0 +1,4002 @@
+{
+  "captured_on": "2026-09-19",
+  "enumerated_branch_count": 13,
+  "unique_node_count": 394,
+  "branches": [
+    {
+      "key": "root",
+      "count": 7
+    },
+    {
+      "key": "internal",
+      "count": 8
+    },
+    {
+      "key": "culture",
+      "count": 4
+    },
+    {
+      "key": "archive",
+      "count": 16
+    },
+    {
+      "key": "strategy",
+      "count": 3
+    },
+    {
+      "key": "policies",
+      "count": 4
+    },
+    {
+      "key": "management",
+      "count": 3
+    },
+    {
+      "key": "solutions",
+      "count": 283
+    },
+    {
+      "key": "presales",
+      "count": 17
+    },
+    {
+      "key": "native",
+      "count": 39
+    },
+    {
+      "key": "brand",
+      "count": 7
+    },
+    {
+      "key": "hr",
+      "count": 2
+    },
+    {
+      "key": "planning",
+      "count": 1
+    }
+  ],
+  "nodes": [
+    {
+      "has_child": true,
+      "node_token": "ICmswcKbwibyDQkGijwcajuTnbe",
+      "node_type": "origin",
+      "obj_token": "FjhwdIBn7o0jiOx9yzfcZA5hnnh",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "爱化身文化及规章制度"
+    },
+    {
+      "has_child": false,
+      "node_token": "F6VPwLswNi9bxVksegZcNyuZnYT",
+      "node_type": "origin",
+      "obj_token": "XevZdKB5QoZiNtxB94hciMKdnSg",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "知识库规范"
+    },
+    {
+      "has_child": true,
+      "node_token": "MFgGwqA8uiTYbikhMTscUdbpncS",
+      "node_type": "origin",
+      "obj_token": "GVwVd7gwsoC6xYxb3RtcxzmrnRe",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "个人知识库"
+    },
+    {
+      "has_child": true,
+      "node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "node_type": "origin",
+      "obj_token": "PpIGdh6qTozSAYx1gQ2ccCiLnAf",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库 -归档"
+    },
+    {
+      "has_child": true,
+      "node_token": "ZzNewBkgLiW5swkbXJIcs3OanJc",
+      "node_type": "origin",
+      "obj_token": "IQufdkdVdoZqGfxm2ZEc3CPtnDg",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "外部知识"
+    },
+    {
+      "has_child": true,
+      "node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "node_type": "origin",
+      "obj_token": "PbyRdetAXoBhiixL6M0cu1N6n2A",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "内部知识"
+    },
+    {
+      "has_child": false,
+      "node_token": "FaIGwKQ2qi6R9tkmN6XcTodFnlZ",
+      "node_type": "origin",
+      "obj_token": "J1AudFSpLoeckuxYrZFcyhFQnIe",
+      "obj_type": "docx",
+      "parent_node_token": "",
+      "space_id": "7649949026715978701",
+      "title": "AI 提示词宝典"
+    },
+    {
+      "has_child": true,
+      "node_token": "HwwTwBX7vihzFVkuhlGcVjG1nfh",
+      "node_type": "origin",
+      "obj_token": "BZoKdhfbRojNXXxchy7cfO6Rnah",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "公司战略与治理"
+    },
+    {
+      "has_child": true,
+      "node_token": "Um1awyj37iJ6vxk12t4cBmRencd",
+      "node_type": "origin",
+      "obj_token": "Jb7Pd01CaoOWaCxHVXzcEBY6nib",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "公司制度"
+    },
+    {
+      "has_child": false,
+      "node_token": "Q4RQwYNw4iDgzBkEluwclNFPn8c",
+      "node_type": "origin",
+      "obj_token": "B35hdFyccotPqGx7OkPcx5zwn1f",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "产品研发"
+    },
+    {
+      "has_child": false,
+      "node_token": "LLBxwcqYtiv708kNXTzc5a2qnGc",
+      "node_type": "origin",
+      "obj_token": "ZJ5ddWigfoLWMkxhedlcJjYintK",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "解决方案"
+    },
+    {
+      "has_child": true,
+      "node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "node_type": "origin",
+      "obj_token": "YXIodTy3Ho1fkvxdmKOcvXPInrf",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "品牌传播"
+    },
+    {
+      "has_child": false,
+      "node_token": "PTxowqN0iimbBck5YBmcDuffnig",
+      "node_type": "origin",
+      "obj_token": "HHKvdZatqoBCw7xsS2Vcpjg3nrc",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "销售与客户"
+    },
+    {
+      "has_child": true,
+      "node_token": "AbN0ws9k9iuwmpkLZeQcUnRInzU",
+      "node_type": "origin",
+      "obj_token": "Dyq1dnO9mo9XN2xPiVQcRZBYn1b",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "人力资源与组织"
+    },
+    {
+      "has_child": false,
+      "node_token": "Bl6jwM2SXi9HIkkHkCEckBVPnHb",
+      "node_type": "origin",
+      "obj_token": "I1vzd4WBeoCK8UxyiS8cPcvDnXb",
+      "obj_type": "docx",
+      "parent_node_token": "KpmVwFTeYiAFrgkrgzOcyPf0nEg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native方法论"
+    },
+    {
+      "has_child": false,
+      "node_token": "EyKTwxR1Hi47VXkK7Z5cDXA9nUf",
+      "node_type": "origin",
+      "obj_token": "THIqdm5iJoVmVKxWUtEcljWQnfg",
+      "obj_type": "docx",
+      "parent_node_token": "ICmswcKbwibyDQkGijwcajuTnbe",
+      "space_id": "7649949026715978701",
+      "title": "员工手册"
+    },
+    {
+      "has_child": false,
+      "node_token": "Z9sFwr1bEiTovSkmtStcFrODnse",
+      "node_type": "origin",
+      "obj_token": "ZJaidJ1LeoCrbbxJ2DncHgYbnee",
+      "obj_type": "docx",
+      "parent_node_token": "ICmswcKbwibyDQkGijwcajuTnbe",
+      "space_id": "7649949026715978701",
+      "title": "新人指南"
+    },
+    {
+      "has_child": false,
+      "node_token": "M9YmwlnOUiXhPtk324Ucfsihn2e",
+      "node_type": "origin",
+      "obj_token": "CfYNdihBdowxEMxdcIycD4O1nGg",
+      "obj_type": "docx",
+      "parent_node_token": "ICmswcKbwibyDQkGijwcajuTnbe",
+      "space_id": "7649949026715978701",
+      "title": "行为准则"
+    },
+    {
+      "has_child": true,
+      "node_token": "DvRBwZmCfi4bsQk78bAc3PQ2n5b",
+      "node_type": "origin",
+      "obj_token": "MgiedJzVKoffqkx3xadcYCTanPg",
+      "obj_type": "docx",
+      "parent_node_token": "ICmswcKbwibyDQkGijwcajuTnbe",
+      "space_id": "7649949026715978701",
+      "title": "管理制度"
+    },
+    {
+      "has_child": true,
+      "node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "node_type": "origin",
+      "obj_token": "HOgBdNI8Xo17nVxh777crfokn5b",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "解决方案材料（持续更新）"
+    },
+    {
+      "has_child": true,
+      "node_token": "UJGOwQFqOigTLWki1DEcwc10nwH",
+      "node_type": "origin",
+      "obj_token": "GrRcdOX0eoW6Trxp54Bc87Jtngg",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "海外资料（持续更新）"
+    },
+    {
+      "has_child": true,
+      "node_token": "Ggj2wAC7fiOmsdkDE7wc01cjnec",
+      "node_type": "origin",
+      "obj_token": "AXNMddgiCog1psxKbPCc0K44nOc",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "交互演示"
+    },
+    {
+      "has_child": true,
+      "node_token": "B9x8wvV6Nig3NKk1fjxcmNLvn2g",
+      "node_type": "origin",
+      "obj_token": "RWk8dPIZ8o1EvJxt8iWcjFk3nlf",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "银行业优质文章"
+    },
+    {
+      "has_child": true,
+      "node_token": "Tw5BwlyaciT3eUkZKuDc0cvSnLe",
+      "node_type": "origin",
+      "obj_token": "K7gxde31uoVh9fx0kXwca9Rqnke",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "Palantir白皮书"
+    },
+    {
+      "has_child": true,
+      "node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "node_type": "origin",
+      "obj_token": "H3BkdnlSzoBTCfxsfVscgjjPnJd",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "售前Skills🔧"
+    },
+    {
+      "has_child": true,
+      "node_token": "Pr6iw3stfiMYFQkWnGMc0yTknac",
+      "node_type": "origin",
+      "obj_token": "UClAdlxy0oFTvuxuLaucB1Gcn9c",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native早餐会记录"
+    },
+    {
+      "has_child": true,
+      "node_token": "TttIwB31GiNy0Sk9ejBcC5X3nzb",
+      "node_type": "origin",
+      "obj_token": "KwmCdC2xKoErAWxaD1ycOH2Gnfe",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "销售分享会记录"
+    },
+    {
+      "has_child": true,
+      "node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "node_type": "origin",
+      "obj_token": "TLFFdQ9EmoCSzcxnXQDc8FKpnTd",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native 理念"
+    },
+    {
+      "has_child": false,
+      "node_token": "LBLxwBErXiZoNDkuiUCc5rgvnQb",
+      "node_type": "origin",
+      "obj_token": "EegpdTv0foTkFlxe8OZcXEIPnGb",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-07-31 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "EIMgw6u7wiF5ivklSb6cwx64nHb",
+      "node_type": "origin",
+      "obj_token": "JH0ddQpQsolLOqxxoh6cvgAanRh",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-01 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "TIcywvfBkiFuatkxwbQcqJpNnvh",
+      "node_type": "origin",
+      "obj_token": "Ugipdb4XSog0N1xL3WncrpIvnDd",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-02 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "FoM1wLtb0iPcWEkFDdLcoaTNnAf",
+      "node_type": "origin",
+      "obj_token": "QOQUdKro2oJbNexX3AYcqEQ9n5b",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-02 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "MpXTw1KHzimv8tk56wZcpWjcnZg",
+      "node_type": "origin",
+      "obj_token": "VvTfd5O0soRmicxLf6lcypbFnAc",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-03 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "MIKrws0bai42Y0ko3krcB7a9nwb",
+      "node_type": "origin",
+      "obj_token": "X6VtdAXLCopcWBxIyUec37KKnfg",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-04 20:00"
+    },
+    {
+      "has_child": false,
+      "node_token": "NbPewnIJGiQotxkkEWUc9Brfn7d",
+      "node_type": "origin",
+      "obj_token": "V4ScdKzZzo1FGdxpEsScSWWnnac",
+      "obj_type": "docx",
+      "parent_node_token": "H9GiwzqmyiZbpEkUA10cPwEpnrg",
+      "space_id": "7649949026715978701",
+      "title": "AI Native知识库差异补全报告 2026-08-05 20:00"
+    },
+    {
+      "has_child": true,
+      "node_token": "FpWIwzWYYiiyrpkIvnbcwmjanpd",
+      "node_type": "origin",
+      "obj_token": "R9zKdR3FBoLafxxciL0cOFywnfh",
+      "obj_type": "docx",
+      "parent_node_token": "HwwTwBX7vihzFVkuhlGcVjG1nfh",
+      "space_id": "7649949026715978701",
+      "title": "战略规划"
+    },
+    {
+      "has_child": false,
+      "node_token": "SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+      "node_type": "origin",
+      "obj_token": "IzW7dpmSJoJD1JxrxobcJMBxnDc",
+      "obj_type": "docx",
+      "parent_node_token": "HwwTwBX7vihzFVkuhlGcVjG1nfh",
+      "space_id": "7649949026715978701",
+      "title": "组织架构"
+    },
+    {
+      "has_child": false,
+      "node_token": "CXizwk1R2izdpvkHeWLcmEC5nqb",
+      "node_type": "origin",
+      "obj_token": "PXPmdXBONogdj0xzJu8cbd25nkg",
+      "obj_type": "docx",
+      "parent_node_token": "HwwTwBX7vihzFVkuhlGcVjG1nfh",
+      "space_id": "7649949026715978701",
+      "title": "价值观与文化"
+    },
+    {
+      "has_child": false,
+      "node_token": "VHS9wnenGidegTkgsHZctQIRnkd",
+      "node_type": "origin",
+      "obj_token": "MPlPdogRmow0m4xtHBNcrGgxn2g",
+      "obj_type": "docx",
+      "parent_node_token": "Um1awyj37iJ6vxk12t4cBmRencd",
+      "space_id": "7649949026715978701",
+      "title": "财务"
+    },
+    {
+      "has_child": false,
+      "node_token": "IJ3IwzPOeiSob5k7dB1cBCLLnBb",
+      "node_type": "origin",
+      "obj_token": "ZSMAdQ8d6optJjxmTEtcCJkenJb",
+      "obj_type": "docx",
+      "parent_node_token": "Um1awyj37iJ6vxk12t4cBmRencd",
+      "space_id": "7649949026715978701",
+      "title": "行政"
+    },
+    {
+      "has_child": false,
+      "node_token": "UfAlw0XF5i37qNk69iocPfgjnrG",
+      "node_type": "origin",
+      "obj_token": "WCJZdZkVboxPuFxRqPPcnWMSneb",
+      "obj_type": "docx",
+      "parent_node_token": "Um1awyj37iJ6vxk12t4cBmRencd",
+      "space_id": "7649949026715978701",
+      "title": "HR"
+    },
+    {
+      "has_child": false,
+      "node_token": "SibgwCuZbiaeDsko8xBcv1aBnUg",
+      "node_type": "origin",
+      "obj_token": "NyCSdXdIMonM4wx7Hxhcvx5znDd",
+      "obj_type": "docx",
+      "parent_node_token": "Um1awyj37iJ6vxk12t4cBmRencd",
+      "space_id": "7649949026715978701",
+      "title": "其它"
+    },
+    {
+      "has_child": false,
+      "node_token": "Dp2Jw88KyiPCCdk3jTJc3duPnhz",
+      "node_type": "origin",
+      "obj_token": "SS7CdJ4pQoqvflx8HaBc05j3nQ5",
+      "obj_type": "docx",
+      "parent_node_token": "DvRBwZmCfi4bsQk78bAc3PQ2n5b",
+      "space_id": "7649949026715978701",
+      "title": "报销管理制度"
+    },
+    {
+      "has_child": false,
+      "node_token": "LS3uwnMN1iatOrkpUxAcvc8vn1d",
+      "node_type": "origin",
+      "obj_token": "H77idQ39voeH02xefLNcbeFknmh",
+      "obj_type": "docx",
+      "parent_node_token": "DvRBwZmCfi4bsQk78bAc3PQ2n5b",
+      "space_id": "7649949026715978701",
+      "title": "员工差旅管理与费用报销制度（修订）"
+    },
+    {
+      "has_child": false,
+      "node_token": "VJ4twBrUCiuROOk061Ncuk61nag",
+      "node_type": "origin",
+      "obj_token": "Yfczd53SDoH7JaxGs1dcyGwZnae",
+      "obj_type": "docx",
+      "parent_node_token": "DvRBwZmCfi4bsQk78bAc3PQ2n5b",
+      "space_id": "7649949026715978701",
+      "title": "爱化身员工差旅和费用报销流程"
+    },
+    {
+      "has_child": false,
+      "node_token": "DX63w6Qf7izjy4k6vREczM9dnya",
+      "node_type": "origin",
+      "obj_token": "Nsh2bCoA8oUyqOxWR79cro68nfe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "FqYewMgU7iiT5KkarvMcL6uunbc",
+      "node_type": "origin",
+      "obj_token": "WkNnbmWmtozW1txV8Wpc1EWjnVd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "GWzjwVMfWiBNMTkCX6RcArNmnXc",
+      "node_type": "origin",
+      "obj_token": "ZhbRb5BltoU9vAxEoLTc7DIRn1f",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "NNEzwJ8kvinILOk3k3DcIEkinEg",
+      "node_type": "origin",
+      "obj_token": "DmOFbRV50og1NcxXxnyc168xnch",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Tz3pw3AieiIcEZkxhJLcC4LlnEu",
+      "node_type": "origin",
+      "obj_token": "LyaVb803Ko4ENux1VnacxWtDnJh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "BdCxwnrEsilo8NkbFwCc3Z7iniy",
+      "node_type": "origin",
+      "obj_token": "VJZIdVpmloE2F0x5FRncf7HdnCe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "北控水务技术方案对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "OpOtwEqtKiDGDXkUlKFci5wMndg",
+      "node_type": "origin",
+      "obj_token": "H0P5bDtpYon51oxVxIMcuCWHnah",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZQMvwspSnipF04kgK62c3bV5nyd",
+      "node_type": "origin",
+      "obj_token": "VX11bW7Pto3yiFxN8vVcpcA8nJb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务和金融板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Fx7hwIcdgiO9CEk2HQYcFLBGnNf",
+      "node_type": "origin",
+      "obj_token": "HRRhbJPptoxgIPxnp4Gc8WQLnIe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "MPEewdyWviVzPwkK1GdcPPMsnDh",
+      "node_type": "origin",
+      "obj_token": "ZG0cbapqwo0qQJxG44kckfCrnLd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "LjUCwuUfCiwJrMkZaP4ctWVtngc",
+      "node_type": "origin",
+      "obj_token": "BidvboTpPookphxTwTVcV8kbneh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践.html"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZMdKwBblEiEDqSkt0G8cghFinUg",
+      "node_type": "origin",
+      "obj_token": "PA89bfrajooFJuxNTFlcgBWSnKd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "FcMHwroVYiuRmVkTGXNceBQfn0f",
+      "node_type": "origin",
+      "obj_token": "CypIbWAanotueFxX9KRc8gbXnRN",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "UZg3wlC6riWEXMkLaYvc7HVtnEb",
+      "node_type": "origin",
+      "obj_token": "LA26bCphEoUqY2xagbYcebnEnGc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "XHJaw8I6tivwSqkjWT8cVHtZnDe",
+      "node_type": "origin",
+      "obj_token": "OXgQbvWiZowEbWxMCFWc0BhznDd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "FA0MwhXdLiv59bkpDvzcMS2MnAe",
+      "node_type": "origin",
+      "obj_token": "KAIVbN079o9w4TxUuxVcmwu8nOd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "XUi1wCg73ikruYkyfPvcFroKn8f",
+      "node_type": "origin",
+      "obj_token": "TztKbmcW0oWsqjx4GYIcqy3LnZb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "S5pywK6LsibjlwkPxIkcmLftnSm",
+      "node_type": "origin",
+      "obj_token": "Zad1b3MSMoRqhjxOvlDccX2Unob",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "J2TPwX5UdijfgYk40PkcZpmcn4X",
+      "node_type": "origin",
+      "obj_token": "P3gWbA0a5o096RxV8vacpCRPn0b",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "VHW0wXCaXi88K4kAWCJc2ZJKn0c",
+      "node_type": "origin",
+      "obj_token": "DZmDbodyTobYOKxjq7ac41kinof",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "污水生化反应池智能调控系统技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "DAcNwHTUliQK9Ok4ElFcPoLBn8d",
+      "node_type": "origin",
+      "obj_token": "NhO7bZFUvoA3ZhxMultcEnmVn0b",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "CVD4wxWqliiijykoPK5cEOwVnng",
+      "node_type": "origin",
+      "obj_token": "Ozdmb3Dymoj0D5xaDb2cO8PznAh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "EXOVwzQwyiSw9Kko6TEcxuWHnLd",
+      "node_type": "origin",
+      "obj_token": "HvWwbVT5uoonzpxy60rcR8eenBc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "国网省二级公司电力二次侧巡检智能化解决方案0127.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "GlAmwMRhhi1OaAkLWewcZ483nuf",
+      "node_type": "origin",
+      "obj_token": "LVffbzu03omai0x5tIkcf4Tqnue",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QjjnwmXQfiYFovkzOopcn5Lwnzf",
+      "node_type": "origin",
+      "obj_token": "O8BobKe2LouJoOxbyiBc0FhEnhc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "KKzcw44Gdiib98kT3wUc3sL7nFc",
+      "node_type": "origin",
+      "obj_token": "LcHjb8dnXo8KJXxfEhHcALlnnQd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "QKVuwaHWDiKnCbk5a49cLBpDnng",
+      "node_type": "origin",
+      "obj_token": "VpN8dV8lloY6YCxv0XbcSQFPnzd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身语音智能体产品说明"
+    },
+    {
+      "has_child": false,
+      "node_token": "XmiHwv863iB5AuknMIOcbg8YnMU",
+      "node_type": "origin",
+      "obj_token": "SUNFbD5GIosMQtx2OvhcwQ5ynQc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆市轨道交通数智化建设方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "IUdUwH9rXiMBw4kXqPAc68QTnyc",
+      "node_type": "origin",
+      "obj_token": "SFNBbmL4eoyn14xxX2vcKGCsnCg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "NWtYwuTb0iLGI0k5t6icNp2gnkh",
+      "node_type": "origin",
+      "obj_token": "M9pJboqqXoccIfxEyecchrqzntf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务行业_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "NxM7wT2JQiiLEUkmJD9cqkRQngc",
+      "node_type": "origin",
+      "obj_token": "THeybYKtPoQcCixcpf1cq8OMnDd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QWlPwEtSTiYMtskejzJc1xohn2e",
+      "node_type": "origin",
+      "obj_token": "KOtFbgCiOorXjsxwwrXcRFbznr8",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践.html"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZKrXwUFgAiMKLHkCpZdczg3jnHb",
+      "node_type": "origin",
+      "obj_token": "TO9mbHeUcoz6p8xwMYWcJFEAnSh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "FsadwAfJoitidDkscktcBpVqnwe",
+      "node_type": "origin",
+      "obj_token": "OmWxbRAeoo0C1bxF4I3cJNB9nUc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "GBHFwtH4MiHoymksanecVKcVn1b",
+      "node_type": "origin",
+      "obj_token": "PEFSbZeH7oGRGkx6ZdOc5oEDnvf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "G7Z2w6UviiKHJskiJ16ctQDNnlh",
+      "node_type": "origin",
+      "obj_token": "RRsEbFHCEoRZtlxSs2xchnt9nmc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "HCGjwy4tjiP0oZkEa1scvCNfn3c",
+      "node_type": "origin",
+      "obj_token": "YdZ0b0m2voHIB6xHIb9cZPlLnBd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "AU8fwNh0zigQzykeBxccdtdMnJe",
+      "node_type": "origin",
+      "obj_token": "FjLQdgcyNoi45Hx5Ecfcux1anId",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Company Profile/Credentials Presentation – English Version"
+    },
+    {
+      "has_child": false,
+      "node_token": "DxPlwZJ5VisweNkPlZxcm4XLn51",
+      "node_type": "origin",
+      "obj_token": "HrZtbOVphoF31JxzIIZcI9ANnIh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务行业_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "PhVpwi31miodwXk7vIhcahLWnAd",
+      "node_type": "origin",
+      "obj_token": "KuDVbGcZCoJPAwxzgpOcadJTnZg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "DjLtwlbZAiVfS8kTLSUcv5Bqnpg",
+      "node_type": "origin",
+      "obj_token": "P88BdmDvBoNmBJxEcr5cTsrpnid",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆市轨道交通数智化建设方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "OVO6wiPreinUitkP888ckKrun5g",
+      "node_type": "origin",
+      "obj_token": "GjrKbIkRnoksfAxPlOscW14cnXe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "N9mxwuGIjiVSBWk5frfcr1ixnSf",
+      "node_type": "origin",
+      "obj_token": "WxxXbuiQcolg1ixBBmFc7yEPnuh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "EYcxwvavbiQISgkRsgzcLPFHnXg",
+      "node_type": "origin",
+      "obj_token": "DFt7b0RGFooWCzx6xDkcWuS3nZe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "BsQjwsDaCit6JPkWDQFcQJNin8f",
+      "node_type": "origin",
+      "obj_token": "T6o1byyf6oRMo1x9RJocfHP7nIb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "MGNFw1W6aiISJskd9jlcaOosnoc",
+      "node_type": "origin",
+      "obj_token": "Ae28bdw0noVfu4xazVkcKyTCnth",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QtTuw8YKZixgSIkYDyVc91G0nZe",
+      "node_type": "origin",
+      "obj_token": "U7KQbpqGJoxZuExlCBrcJBUQnAe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "DsgGwuL47iaRiKku3yGcWit8n9b",
+      "node_type": "origin",
+      "obj_token": "LDjDbWYBdoHdkIxzwSKcOCaGn5g",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "PipQwA6jciQOJbk8J27cxSblnTq",
+      "node_type": "origin",
+      "obj_token": "SNTwbq8HXozXuyxeU0rc5CHnnbd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "国网省二级公司电力二次侧巡检智能化解决方案0127.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "PC6OwdjJuiMJFNkDduhcwpFenPh",
+      "node_type": "origin",
+      "obj_token": "SyhsbYLWUoQ7Krxhx5hceIlMn2f",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆市轨道交通数智化建设方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "CcpkwoMVtifK0pkep8Ic35Dsn1c",
+      "node_type": "origin",
+      "obj_token": "IWr7dvPUdokYPRxfjf6cYvgvnpe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "保利物业语音智能体方案汇报逐字稿（C层版本）"
+    },
+    {
+      "has_child": false,
+      "node_token": "DVLqw7Feyiedx1kUmPvcZNg8nPb",
+      "node_type": "origin",
+      "obj_token": "NPc1bOT2IoAGC8xjjZ3cuX16ngd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "污水生化反应池智能调控系统技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "MGR3wlarZikcxFkNCbscCcEln0d",
+      "node_type": "origin",
+      "obj_token": "FWXAbUudwovSlNxqojGcSTNTnNg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "EybxwSAkcifiw8kgPm5cAL1enP9",
+      "node_type": "origin",
+      "obj_token": "MSzedd5amo60jDx4249ckmxknKf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "保利物业语音智能体方案汇报逐字稿（基础版本）"
+    },
+    {
+      "has_child": false,
+      "node_token": "K774w6EGQiGb5nkBrLQcmpeSnDg",
+      "node_type": "origin",
+      "obj_token": "RQpGbhtnUo6S5uxA5WecxlpKnOe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "JZXOwKGQgiZDg8kMd5BcV62Knee",
+      "node_type": "origin",
+      "obj_token": "S3cMdshNwoUX1hx1eFDcbzQtnlh",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践 - 交互演示逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "OIJewmLuIiGpuzkhXdhcnTRsnug",
+      "node_type": "origin",
+      "obj_token": "CfPgbfOqloiJ24xK98McRLlfnKb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "S215wmxqKi6P3qkSIeOcVSownFh",
+      "node_type": "origin",
+      "obj_token": "RjvubYefXodJV4xcqpfcvff9n7f",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "W7kHwbmY6id1bukF9kLc0ooJnNh",
+      "node_type": "origin",
+      "obj_token": "MA8sb6553osDcHxdmHFcmwPjnse",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "L65YwsinCi1g7ekjSLecN512nHh",
+      "node_type": "origin",
+      "obj_token": "XWIRbZ6Ltol4f9xPcFucNDcjn9J",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "UQoOw7Ir9i5mNQk20kAcVTAcnlc",
+      "node_type": "origin",
+      "obj_token": "T454bNluDoCCOdxUeEtcmSE0n8f",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "Y0GuwN3KQivCNuknUmNcHaTYnSd",
+      "node_type": "origin",
+      "obj_token": "OBjNbT70fo8HIOxoXWIcUmT2nuQ",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "OLudwsZhoisJ8ukVKi2cwhPtnIc",
+      "node_type": "origin",
+      "obj_token": "CG8GbsBukoclxJxpjLgc9xKanic",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "AKScwIzy1ioPDekR9QHcNYQknKh",
+      "node_type": "origin",
+      "obj_token": "Y2RldNGIfoYdLzx6RZFchyANnxY",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆轨道技术方案对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "K2WwwlUIai2fxwkCyHvcsQQYnRb",
+      "node_type": "origin",
+      "obj_token": "OBiCdE1bloBrZRxbGajcjZ7tn0e",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-VjMEwlLw6iQvjhkGsH5cjGK5njg"
+    },
+    {
+      "has_child": false,
+      "node_token": "RIIcwBOKJi1ZTWk7ErEcf726nqg",
+      "node_type": "origin",
+      "obj_token": "UxU1bNd4eouxU4xlAdectzFdn8e",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "DKStwVUkxiHXK0karG8cq2nsnSe",
+      "node_type": "origin",
+      "obj_token": "WdPudAnq9o6fAmxo44ncdUyUnnf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-QJEQwR2O9iyfJMk16fmcv9vOnNd"
+    },
+    {
+      "has_child": false,
+      "node_token": "NpdOw7GGziGAFcknFzgc9hSCn1I",
+      "node_type": "origin",
+      "obj_token": "QcJWdsJDloqjSuxaTe7cpV49nBf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-MScnwwoNyi6KGzkHeIRc4cS4n2q"
+    },
+    {
+      "has_child": false,
+      "node_token": "TKHdwSAliiRb6nkNahecvCS3n2b",
+      "node_type": "origin",
+      "obj_token": "GGDpdIuILoH6IHxtxlqciPUsnoD",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-JizowbMlligr26k9MPjcVZ7rny5"
+    },
+    {
+      "has_child": false,
+      "node_token": "BNCNwsZZLiDOYMk9XvNcWPTlnVd",
+      "node_type": "origin",
+      "obj_token": "ABfLd92c0oWnkpxJVCccEaYRnpg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-IiEjwWUt4iaTbekbRGmcaJMEn0e"
+    },
+    {
+      "has_child": false,
+      "node_token": "HdYcwwb4cisQE4kRhHVcgDcvnyg",
+      "node_type": "origin",
+      "obj_token": "XDCYdxuaxomPjNxNRWmcp2bznIg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "docx-LyKkdcH7EoN5g0xkYN7cw8SLnwg"
+    },
+    {
+      "has_child": false,
+      "node_token": "A405whhnniCgI5kYLVNcouGVnGd",
+      "node_type": "origin",
+      "obj_token": "MqI3drEDaoNnF7xXI5icmFM0nFg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "docx-H6pbdqTcdoc4ySxqUlLcc9fjn4d"
+    },
+    {
+      "has_child": false,
+      "node_token": "AAUJwXpCKiasOWkJ0LJcdMjlnPg",
+      "node_type": "origin",
+      "obj_token": "ZxdUdASI5omSgqxqIxrcEuZ7n4g",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "云启东方技术方案对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "D2s8wrAn6id0hlkF4P2c7f3mnAg",
+      "node_type": "origin",
+      "obj_token": "Y15udkwZYorCEQxr7qIcnJVVnmg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "咨询行业数智化转型合作 对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "F6LXwhH5ziOfuMkB17kcCVGSnje",
+      "node_type": "origin",
+      "obj_token": "Obwxd6lGxoxIY5xr2lUc5YP9nsf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "污水生化反应池智能调控系统技术方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "AVCuwNEnNiV7aZkGs9acCgjZnFc",
+      "node_type": "origin",
+      "obj_token": "LspWbt1dYo82LuxnA1Mc4HaWnCd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "CaUQwuDXOipk30knh3fccFgxnDd",
+      "node_type": "origin",
+      "obj_token": "VblGdHVzlon4T2x7zq0cIrYlnLb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-YAx3wA1tWi3OjrkC4jucf562nUc"
+    },
+    {
+      "has_child": false,
+      "node_token": "PkngwkoG0i4hMikTJQucnNGHnmf",
+      "node_type": "origin",
+      "obj_token": "FEmxd18oyomsYDxwffmcVHdbn8e",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "docx_H6pbdqTcdoc4ySxqUlLcc9fjn4d"
+    },
+    {
+      "has_child": false,
+      "node_token": "EZRHwENEYiwLGDkDmFvcEwDbnJh",
+      "node_type": "origin",
+      "obj_token": "PNhXdGugCo9uY1xIcFrcJ0r6nzg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "LG6BwUa7SiCPddkQJ9ncRwLNnPj",
+      "node_type": "origin",
+      "obj_token": "O1fwdXnIIoYB75xg6AZchoCbnRg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银项目对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "QPG2wET2siqUickzTG2crLnLnGg",
+      "node_type": "origin",
+      "obj_token": "UINnd6rkkogjL0xM6fucaVy0n3e",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-SmH2wc0ZGialVVkYf3Zc2OsTnjf"
+    },
+    {
+      "has_child": false,
+      "node_token": "KCCzwVOYBidUUgkPpxlcers0nrc",
+      "node_type": "origin",
+      "obj_token": "DwDzdebFEoaRtsxLXThciqBingf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-KnXswclB5iJP3mkeJ3oczriAnmg"
+    },
+    {
+      "has_child": false,
+      "node_token": "CEI7wUL1EiAkSok5FyacebGOn6h",
+      "node_type": "origin",
+      "obj_token": "NcmYdjnnfoSYGexq2obcvcnFnib",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-Nw0awb5bziksaVkXuRkcB4k2nog"
+    },
+    {
+      "has_child": false,
+      "node_token": "Nd1Mw3lACiPgpXkbocfc2vU4nOg",
+      "node_type": "origin",
+      "obj_token": "I49Ddf7f0o7pe2xIHqTcIhTZntW",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "docx_LyKkdcH7EoN5g0xkYN7cw8SLnwg"
+    },
+    {
+      "has_child": false,
+      "node_token": "BbrZwVLJuimg9hkCdkFccB5Gnsg",
+      "node_type": "origin",
+      "obj_token": "WTZsdlmp6ojRnRxFmoFc6VNCnxg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-I0xuwLmhei3Rw9kB8JXc7XLJnTc"
+    },
+    {
+      "has_child": false,
+      "node_token": "DbeKwGWV6iUB3uknQA2cHHbNnBf",
+      "node_type": "origin",
+      "obj_token": "UNVodhkgQohIrGx7zvNcPuBVnjd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "wiki-Arvmwj8V5iTr7wkcAwScoI18nbe"
+    },
+    {
+      "has_child": false,
+      "node_token": "QqC0w9LVEiaK0Lk7Lbtcj0oPnag",
+      "node_type": "origin",
+      "obj_token": "IByjbbatxo048DxYzTvcBsRSn1b",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践.html"
+    },
+    {
+      "has_child": false,
+      "node_token": "NPk2wiglKii5gEk0sCGcAgECnee",
+      "node_type": "origin",
+      "obj_token": "YQ0DbLDFqoeTHXxXxtgcyVTRnqd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "Gy06wqvdkiU3a2k52Czc2c8Rn4e",
+      "node_type": "origin",
+      "obj_token": "Qzh1br6uZo3vSixSs1LchSFfn4c",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "V8D1wMMJJirj5zkhDuucYrCgnFd",
+      "node_type": "origin",
+      "obj_token": "BI0LbJ4RDoZFjaxS9U9cDDMFnbh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "VHOjw6aaPiutIVkS7PacVIDenLe",
+      "node_type": "origin",
+      "obj_token": "K8kKbGNpnosWNaxCdq2cwlPFnOd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "KWQOw6lm8ii858k1gNQcJC8hn3e",
+      "node_type": "origin",
+      "obj_token": "WHOgbIevFotrtkxEbFOcRXgznQc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "F184wcuGKiKP4ykdye8cw554npe",
+      "node_type": "origin",
+      "obj_token": "AlGLbcbGhocMlbx5kv8cBjeXn8b",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "Ux32wVeXXiz8oakuFYKcoRnGnTc",
+      "node_type": "origin",
+      "obj_token": "Z1XTbiEvrogD3dxe0BNczAx8nme",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "XEsxwOaQ5iNZQakGNLIcbtXwnld",
+      "node_type": "origin",
+      "obj_token": "IMgxbSQfQodDtSx5S8CcIgFznze",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "RJRJwKY2virFQ3kBxr6chNmInof",
+      "node_type": "origin",
+      "obj_token": "NT42bcEolozBPaxIA6BcUpXYnLg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "WBiUwT9xrimpHJk3DUlcyx7Gnmf",
+      "node_type": "origin",
+      "obj_token": "NMuUbGvnEoqef7xfrS6cS3sxnhc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "QbjMwnjphigSaQkdzeWcRvg8nic",
+      "node_type": "origin",
+      "obj_token": "FeTPbAO4Po8o7ix1N8ucf5yUnWe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "DfTIw5k4qif9PNkYSyJccH0Hngc",
+      "node_type": "origin",
+      "obj_token": "EQGSd67kxomioZx1RgjcKLGQnod",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "LyKkdcH7EoN5g0xkYN7cw8SLnwg"
+    },
+    {
+      "has_child": false,
+      "node_token": "X8I7wrhlYiR8yOkPiLfcPBCTnXH",
+      "node_type": "origin",
+      "obj_token": "Q9gydsQf3oELnsxTG6eceaIMnZd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "H6pbdqTcdoc4ySxqUlLcc9fjn4d"
+    },
+    {
+      "has_child": false,
+      "node_token": "Cjy9wbu7ai13nvk6K2IcguMPnzf",
+      "node_type": "origin",
+      "obj_token": "KxR5dRIGroVQUJxZFqHcks1MnTf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "VIbhd6ZzloUt75xVOu4c4Atbnlz"
+    },
+    {
+      "has_child": false,
+      "node_token": "MRrpwIxX2iBqDAkCNmncgXnynre",
+      "node_type": "origin",
+      "obj_token": "LevdbK1eDox9bsxjeQ3cSL4Pnqh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "TVFvwNLceiVG4wkDAfLc0D9anRb",
+      "node_type": "origin",
+      "obj_token": "PYxEbK93GoqYo3x3O5Mcalq1nKc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "HF8JwcnRgi5Y3nkglukcPbeVn3e",
+      "node_type": "origin",
+      "obj_token": "K3uHdi0wgoEaPsx1ei0cyWZ2nbe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "test_docx2"
+    },
+    {
+      "has_child": false,
+      "node_token": "ESxhwTfw9ibza8kx0Q6cUqP5nRh",
+      "node_type": "origin",
+      "obj_token": "ThdfdQgHFoScoHxqS2Hcgf9xnSc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "test_docx"
+    },
+    {
+      "has_child": false,
+      "node_token": "RVDGw2PBSizUD5kogdUcxvi8nQh",
+      "node_type": "origin",
+      "obj_token": "X4U6bqr3noME6Uxz49dc7Lv6nFc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案-爱化身科技.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "ACxpwduCsiDd5vkjZvicsGZMnDQ",
+      "node_type": "origin",
+      "obj_token": "Un6Bb07jRowWQ0xNSFkccbBinLd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "MtWlwVBYxihC2Mkjpyocbb1lnod",
+      "node_type": "origin",
+      "obj_token": "Sx5QbTyZEopjuuximRqcTDf4n4g",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QDqGw1xJOipJ25kCxbKcwaPYnVd",
+      "node_type": "origin",
+      "obj_token": "O8A1bZdm3oUh6CxxvUrcagFwnMc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案-20260511终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "NuwNwzwjdi451mklOx2cRRS8nOf",
+      "node_type": "origin",
+      "obj_token": "NRNxbLrX2oxNRExSOqUcd4H4nkc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务和金融板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "M1bcwYHvGifwdBklgoYcmUrsn0g",
+      "node_type": "origin",
+      "obj_token": "JtPCbbHr0ojWzIxEhAocqV4fndb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "VuqawJmNiit5sjkWEkJc8LKgnSh",
+      "node_type": "origin",
+      "obj_token": "Spf0b88VDoHJdQxayFKc3lXynfd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "国网省二级公司电力二次侧巡检智能化解决方案0127.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "J4hqwfRcviwCQakH9c2cBrbmn5g",
+      "node_type": "origin",
+      "obj_token": "Iapxbw3nEocDiKxxMfVcBeNonHf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "BRkxwQl8UidELTknGMPcIEIknDg",
+      "node_type": "origin",
+      "obj_token": "BpmWblA23oEefAxhgvJcKK1SnkJ",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "R4OqwxNJKiyXtSkPFOEcYHmwnhc",
+      "node_type": "origin",
+      "obj_token": "PGbHdRBhRor4c5xxRJOcYq4JnDW",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "北控水务技术方案对外讲述逐字稿 V1.0"
+    },
+    {
+      "has_child": false,
+      "node_token": "P6IUwmpWuitRqAk4ZLFcJrErnxg",
+      "node_type": "origin",
+      "obj_token": "WUzUdXBAQoIi9ixIyHacq5tGnga",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "咨询行业数智化转型合作 对外讲述逐字稿 V1.0"
+    },
+    {
+      "has_child": false,
+      "node_token": "FZ5pwz0TxiuRPPkcfA3cxLann7d",
+      "node_type": "origin",
+      "obj_token": "M4lsdxmjAoOcQcxe0Lhczgf7nTh",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Untitled"
+    },
+    {
+      "has_child": false,
+      "node_token": "A0kUwy55siIRX8kjMllcZ49tndg",
+      "node_type": "origin",
+      "obj_token": "KyqNdV0hHoei5sxK8OdcX8V7n4g",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "《Agentrix 能力演示》对客逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "NAqQweeFxi3JT7k7FQLcRNiqnrf",
+      "node_type": "origin",
+      "obj_token": "LXj4bTLl7o139CxneTCcXicrnEe",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "污水生化反应池智能调控系统技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QHOcwrHQui341ikGs0OcweFZnme",
+      "node_type": "origin",
+      "obj_token": "CZUMdsNDyoiQZqxGxHfcYjlanye",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆轨道技术方案对外讲述逐字稿 V1.0"
+    },
+    {
+      "has_child": false,
+      "node_token": "VvdcwApAxiza7MkVO9ecnCTvnZe",
+      "node_type": "origin",
+      "obj_token": "FrCubH51ao4LjPxNZkGc1zE7ngf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "BSdgwFyrlinR96kPXJScExSrnge",
+      "node_type": "origin",
+      "obj_token": "XWQVdBt7aoZESLxkI5RcrGgKngb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银项目对外讲述逐字"
+    },
+    {
+      "has_child": false,
+      "node_token": "VQstw7w20iNat1kJ2pvcfoO7nye",
+      "node_type": "origin",
+      "obj_token": "Ll5zbOn69ozx2IxrLZbcCnURnbg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆市轨道交通数智化建设方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "EzEywkYjliQgLqkWOFncFbGLnBd",
+      "node_type": "origin",
+      "obj_token": "FpJxbbhUvoOC1bxvonNcXArWnBf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260415 英文版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "D8nowbTUnibJiLk6gGmccCm3nwb",
+      "node_type": "origin",
+      "obj_token": "LYunb3sKfoIg5lxFmZ3cO5Exn4b",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix 银行业智能体解决方案V1.0-含风控.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZYlrwjbjxizVyhksdxGcbaBNnoc",
+      "node_type": "origin",
+      "obj_token": "QIJ4bWzx9oxKnLxYcOwcKt8mngc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银人机混合平台城服智能体产品设计方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "L6p1wDtdniVqbWkUTIJcHh1qnye",
+      "node_type": "origin",
+      "obj_token": "BnylbLPw3oXxSDxw4qAcuVgxnZb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务行业_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "FKvGwNlC3is12Bk9yXMcVIftnXg",
+      "node_type": "origin",
+      "obj_token": "P8gibPsEBoHcYrxiudrc2zIon7d",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身_企业客户服务全景.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "NMQkwPF6SikZhpkb71scJkKznBe",
+      "node_type": "origin",
+      "obj_token": "HcggsMz0FlvaFwdLWBAcR8Tenwg",
+      "obj_type": "slides",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI_WORKMATE_Enterprise_AI_Mobile_System"
+    },
+    {
+      "has_child": false,
+      "node_token": "JqWfwPUlEi0JdVkjzIXcMHk4nGc",
+      "node_type": "origin",
+      "obj_token": "OQasbtQwIoHXlNxWq9qcmSrbnke",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI_WORKMATE_Enterprise_AI_Mobile_System.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "A1RnwJk4biRmyDkrTxIci8LJnJb",
+      "node_type": "origin",
+      "obj_token": "Z2snbuPC8o4qrixXIytcfa7InLg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Digital Life - Mind Echo Product Introduction.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Ng4VwkKF7iqfpKkGXZ6ceSMVnc0",
+      "node_type": "origin",
+      "obj_token": "DH2fba1NqofclUxXxVBcCyZqnmb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践.html"
+    },
+    {
+      "has_child": false,
+      "node_token": "Q6VKwkWE9iWDvDk39rEcDTaenSb",
+      "node_type": "origin",
+      "obj_token": "LyPGbl9qtokvIexlNZjcWZJZnGf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "JzIEwltWsiB34qkIJ2Jcx4kknvd",
+      "node_type": "origin",
+      "obj_token": "BD4FbzxB0orK9txiJSFcJCqZnfQ",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS_Voice_Agent_Platform.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "U7zbwT9Poif9xdkL71MctBcEnVe",
+      "node_type": "origin",
+      "obj_token": "CokvbpgRToWRwQx6RrscG7sXnmw",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "JrRvwgxH2ifeqxkRT1HcMngtn52",
+      "node_type": "origin",
+      "obj_token": "A6SusrCG5ldysxdvqMUcxNd2nAe",
+      "obj_type": "slides",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS_Voice_Agent_Platform"
+    },
+    {
+      "has_child": false,
+      "node_token": "Oq6ywJmHrifuwAkmsfHcGL7Knwf",
+      "node_type": "origin",
+      "obj_token": "LAARbSJxpokkSWxj6KycMh8bnud",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨20260413-终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "GsI1wFuRUibwOGk3YP8czNGrnhe",
+      "node_type": "origin",
+      "obj_token": "QV2mbrYDko0IZoxCtg1cSiX7nuh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身客户&和君咨询战略合作方案-260306.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "LDlYwB3lviYOfOkt83vcOpmYnag",
+      "node_type": "origin",
+      "obj_token": "XUqMbNaxOosk6FxK83gcD85Knhg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "EgkzwVKLtijtcbkKJfYc40wHnPe",
+      "node_type": "origin",
+      "obj_token": "ZkiabiZZUoS0VQxIi7rcdnxlnFg",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "KLCSw3D2NitkHQkNOYfcQDXonWh",
+      "node_type": "origin",
+      "obj_token": "BMdAbnnEHoqBRIxmqeOcRErZnmd",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "YjWJw7Pu1if759k1HAccJra2nOh",
+      "node_type": "origin",
+      "obj_token": "SUZLb2ssjoQQmfx6cGlclRG8nQf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案20260509.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "SUS2wf65Qi6aTHkRlwRcFUVOnfh",
+      "node_type": "origin",
+      "obj_token": "JguJbN8S7oo5AKxsE2NcTfLvnOf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "武汉美年大健康第三次汇报.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "RFldw5bfgiKRVtkprHOcSSfenfd",
+      "node_type": "origin",
+      "obj_token": "HfNzbE8V9odrAWxYsHacDuZTn5d",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix AI Agent Platform(1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "AChcw9eRritcsfkcW6Cc5Z1Snfd",
+      "node_type": "origin",
+      "obj_token": "WsBKbwadQo9JKrxuPjlcuNGgnqh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix AI Agent Platform.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "XS96wzapOi9N63kRk3Fcxajmn8g",
+      "node_type": "origin",
+      "obj_token": "C40Lb6p2BoEjGExeHMrcRNVYnth",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "DKVOw7jeciGNNAkn7l4cvtCqnub",
+      "node_type": "origin",
+      "obj_token": "ID9qbsv3OoQ6zjxskqycctc1npc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "武汉美年大健康第三次汇报.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "TQFowTYDEiLFklkLZeacno8fnId",
+      "node_type": "origin",
+      "obj_token": "QHDlbyV1bodyIlxgWdQcdwv2n4d",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "江苏烟草数据智能运营中枢建设方案 (1).pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "E7dPwmGgJiAnFUkdmCTcamqLn0g",
+      "node_type": "origin",
+      "obj_token": "MTGgbs6fOoKtmqxvooAcCEMmn9g",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS Agentrix 空间智能操作系统解决方案v3.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "NVggwYA3Vi4eQmkimvKcba0anHh",
+      "node_type": "origin",
+      "obj_token": "YwNJsmGkZlUvh7dVQWncG1dRnFh",
+      "obj_type": "slides",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS Agentrix 空间智能操作系统解决方案v3.0"
+    },
+    {
+      "has_child": false,
+      "node_token": "YlZ2wZppAiVf1EkvT3QcLnLnnmh",
+      "node_type": "origin",
+      "obj_token": "ERCybL9t3o0RjyxX5PkcsnsunNh",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI智能体打造有温度的福州-V8-20251031 (1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "LsJJwDOlQiM3Utkl96iciRxKnpc",
+      "node_type": "origin",
+      "obj_token": "DWRsbhfh6oYdR1xya0XcMohlnaf",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "江苏烟草数据智能运营中枢建设方案 (1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "VNYUwszHviignikiJ01cijMAndb",
+      "node_type": "origin",
+      "obj_token": "P6tDb7Oa1owO90xQUpTciD3znNb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈（Tiannai）对外核心BP框架：城市服务的“特斯拉时刻” (1).pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "JZbxwPS6piLDgYkhdUgcp3r1nJh",
+      "node_type": "origin",
+      "obj_token": "Ti3CbQKetocpjZx2XmLcVs5anug",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天地一体化人机协同环卫智慧管理平台 (1).pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "EV06wtYhGi7KIvkMkjTcYucbnig",
+      "node_type": "origin",
+      "obj_token": "KuOFbZoAso5ShdxL0HOcb8aRn8g",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "【销售侧】天地一体化人机协同管理平台.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "VXx3wqarliim6QkK7HEc6mzKnld",
+      "node_type": "origin",
+      "obj_token": "YMx2stjijlivMUdbGS6cDbqTnxb",
+      "obj_type": "slides",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI智能体打造有温度的福州-V8-20251031 (1)"
+    },
+    {
+      "has_child": false,
+      "node_token": "CsZowLVZbip9p1kCCn7cJWUsnoI",
+      "node_type": "origin",
+      "obj_token": "FSXRbaUGMowLJxxlDwpc5c6KnIb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "基于AI城市智能体平台业务数字化转型方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "JltewtkC0iwUTWkCTCacyy7vnbc",
+      "node_type": "origin",
+      "obj_token": "LHNFbsqbZoptxQx2e1Mcxfykn4e",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260317_2.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "FTG0w2qfziTSZJkU6uRcDFrWnAb",
+      "node_type": "origin",
+      "obj_token": "UMx1dzOYnoSNMCxZsotc1QkunQb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源数智化升级方案 对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZyDLwwsjSi7XTJkbinyc4wf6ngJ",
+      "node_type": "origin",
+      "obj_token": "QTshbd5hbo2C4ZxYop3cTXL7nof",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身对外介绍_20260317_2.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "Jg7Ow0Z0LiitfPkW0yIchugmnuf",
+      "node_type": "origin",
+      "obj_token": "LZXAd4RqKoMja6xRwkCcoJv6nDd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身通案对外讲述逐字稿 V1.0 20260320"
+    },
+    {
+      "has_child": false,
+      "node_token": "JhSMwFgJaiSjxFkwhilcRDaHnbg",
+      "node_type": "origin",
+      "obj_token": "MTF1d7MVIoV91xxH71OcUlDKnhg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版BOSS联合建设方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "DgLzw4POui4bLakD1vFcGrFZngV",
+      "node_type": "origin",
+      "obj_token": "PUrvdohXCoIwmJxFHBicWFIBnZf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "基于AI城市智能体平台业务数字化转型方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "Tu4VwwzvTiMaNykWUmtceyasnHg",
+      "node_type": "origin",
+      "obj_token": "WIZwdlR6LoLmkLxR6NhcdTOTn2g",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI智能体打造有温度的福州-V8-20251031_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "PF3AwA76tilDmhkcGcecPaYRnwg",
+      "node_type": "origin",
+      "obj_token": "BypTdntEIoQRTCxZEh2ciunpnMd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix AI Agent Platform_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "XR6dwz8cairFFwk0gPLcjUAUnrd",
+      "node_type": "origin",
+      "obj_token": "KCwDd7pk2ok7cOxy7drc6MaQnLg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "武汉美年大健康第三次汇报_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "IuQ0wwVsgiA7JQkHGjacbFADnzc",
+      "node_type": "origin",
+      "obj_token": "Ezjidn8jCoibHIxuoN0cy1Wbn0c",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "贷后-Agentrix AI 企业级数据智能体解决方案V1.0_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "TFPRwpasLiNn0QkcCTCcVwbtnsg",
+      "node_type": "origin",
+      "obj_token": "DgjTdv4T2oeTuWxbtMXc7cFhndf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI数字员工赋能兼职猫零工服务与HR_SaaS升级合作方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "VlpZwofiIiG2Mnkj0NfcbUydn3c",
+      "node_type": "origin",
+      "obj_token": "VD00diZ1KoQIVQxYk0ocMSzjnVL",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团企业级AI智能体平台PoC共创方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "Y0EdwD59tiVXOmkOf5ocHYqjncQ",
+      "node_type": "origin",
+      "obj_token": "Y6nhdwg1LoIwp6xBCVocUQlnn0g",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高集团AI智能体战略工程建议书_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "Nyyzwmxo4icA3AkkhimcsG9mnZz",
+      "node_type": "origin",
+      "obj_token": "SMfkdwJ2toTGnxxovX8cQmvwntb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "国网省二级公司电力二次侧巡检智能化解决方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "YxaTwSfX7iwltxkblzYcwlxGnqf",
+      "node_type": "origin",
+      "obj_token": "LTqfdLuAioR3sqxkoRuceMlun5c",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AIOS平台总体技术方案_对外讲述逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "YmSbwo91MihxJwkm4m1chyQfnWe",
+      "node_type": "origin",
+      "obj_token": "CrH8dWGUOo3Njjx3cDRcFA2onne",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务人力资源数智化升级路径探讨_对外讲述逐字稿_V2.0_正式版"
+    },
+    {
+      "has_child": false,
+      "node_token": "JwTnw4Mezi5MP4kpyRoczgm9nmb",
+      "node_type": "origin",
+      "obj_token": "ZAkJdNTA9ogMiRx98OJcP0r7nHc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "爱化身x侨银_企业级智能体落地实践.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "OKv3wZh2Aicx6mkyZDUcJlwSnWf",
+      "node_type": "origin",
+      "obj_token": "Nh9LdbXCOo7KkEx2Cxqc73vInbg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源板块——业务打法方法论"
+    },
+    {
+      "has_child": false,
+      "node_token": "NdwRwZynQiqsHmkES6ccVCMbnYc",
+      "node_type": "origin",
+      "obj_token": "OhqRd5kjRoAMWZxFbKMccn2bnbg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源板块_业务打法方法论_内部培训逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "X8S3weJwciXYAVk4El1cwyhdntf",
+      "node_type": "origin",
+      "obj_token": "Tg87dwT5Oo3efAxcWJvczqFZnhd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务和金融板块 —— 业务打法方法论"
+    },
+    {
+      "has_child": false,
+      "node_token": "Re0AwCIOciilf7kHEVFcExH0n1f",
+      "node_type": "origin",
+      "obj_token": "FpMCdTtoMosrYdxenjhcmFVunCc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务和金融板块-业务打法方法论-内部培训讲述稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "VLPSw70abiKoEpkooaKcvRrentZ",
+      "node_type": "origin",
+      "obj_token": "VvkjdIrz0o9wkFxvOjDcqSr0nwf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务行业 —— 业务打法方法论"
+    },
+    {
+      "has_child": false,
+      "node_token": "UC5QwPI7Ri58wLkUVdrcn2XOnLe",
+      "node_type": "origin",
+      "obj_token": "HKFPdpsUIoghSNx52PQcW26Lnpf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务行业_业务打法方法论_内部培训逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "IcWlwVPDWihzUgkX1ofca6KgnVd",
+      "node_type": "origin",
+      "obj_token": "Byo6duB8eo2ifNxfM2HcEHRInPe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "对外视频演示：Agentrix 能力演示官网："
+    },
+    {
+      "has_child": false,
+      "node_token": "Oy3pw9Ud6igN7QksQ6mcHPTYn3b",
+      "node_type": "origin",
+      "obj_token": "Xoy8dIyOLoRa0GxuPaRcNoOSnr5",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "贷后-Agentrix AI 企业级数据智能体解决方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "AYg5w0wvoik8NikFdSpcHUDOnEc",
+      "node_type": "origin",
+      "obj_token": "IMzCdRCDZoSoGPxCEPTcbNS1nQe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "M16SwUTu1iWTjykeUKCcOqACnof",
+      "node_type": "origin",
+      "obj_token": "ANWDdjEr7o2bMOxINSLcmuZrnbe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "物业-保利物业（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "FpGOwGbyFiuTI3ke2yRcUcsFnlM",
+      "node_type": "origin",
+      "obj_token": "Ms8zdrq74oQTdWxS3MScIbOYnPf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "产品说明文档https://xqmqf98k8t.feishu.cn/wiki/Y4ScwxY5LiGK2MkaTOmckBAgnbK?from=from_copylink"
+    },
+    {
+      "has_child": false,
+      "node_token": "OVQYwsfo2ixKaFkqltmccM76nve",
+      "node_type": "origin",
+      "obj_token": "BfiydPJhKoY88ExbEv5cz5WinQh",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "整体通案 - 人力资源数智化升级方案-爱化身科技.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "OmGzwLiy3iRK0zkfk7Bcv303nCg",
+      "node_type": "origin",
+      "obj_token": "YWBWdE6pqoZ6jXxM2kTc9inonXk",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "整体通案 - Agentrix 银行业智能体解决方案V1.0-含风控.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "KyQ4wSroKi7z3nkiRykczReTnVe",
+      "node_type": "origin",
+      "obj_token": "IteNdmA4CoD6czxSsiTcCWfLnRh",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "产品方案 - 侨银人机混合平台城服智能体产品设计方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "YlPHwRWyRieCPDkMpyDckVzTnyb",
+      "node_type": "origin",
+      "obj_token": "Fjt9dQPlUoRjw9xdlaKczaI4nx4",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中文通案 - 爱化身对外介绍_20260317_2.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "LAfswmOiMiyyezkM9bac316yn2d",
+      "node_type": "origin",
+      "obj_token": "GOdBdVYlpoN6EBxECiGcCQ5Rndb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "英文通案 - 爱化身对外介绍_20260415 英文版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "CO0LwGOORiRuPVkQGHIcDkt3nye",
+      "node_type": "origin",
+      "obj_token": "UHXPdW38LofTZMxNqimcUCJpn0d",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆地铁(专项) - 重庆市轨道交通数智化建设方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "TMqBw59QaiJrmYkmegOccc8anPd",
+      "node_type": "origin",
+      "obj_token": "WQqzd64cGoxyO7xzxYNc1fXtnAd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "电信运营-云启东方(专项) - AIOS平台总体技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "YlntwWkUEimlDckgltzc8Q17nJh",
+      "node_type": "origin",
+      "obj_token": "LTx7dibfToMH44xFtntclOd7nGc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版 BOSS解决方案 - AI版BOSS联合建设方案-20260511终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "V36ywUEgCisTghkYX4ocmJqMnGc",
+      "node_type": "origin",
+      "obj_token": "BtGGd9Yq8oJGLKxVjkvcMQUPn8f",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "视频演示 - Agentrix 能力演示"
+    },
+    {
+      "has_child": false,
+      "node_token": "Dyunwq5KuiQURzklMVkc6EngnKb",
+      "node_type": "origin",
+      "obj_token": "MSd7dIpVVowgqrxKgRzcabsbnSe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "过往项目演示 - Agentrix 能力演示"
+    },
+    {
+      "has_child": false,
+      "node_token": "T0kBway83ik15Hk3kl7ctG06n57",
+      "node_type": "origin",
+      "obj_token": "XRwqdOLHVoz0KnxSZpWcxqnZnQe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈业务BP - 基于AI城市智能体平台业务数字化转型方案.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "AjDZwWDJaiyRhvkvSijcbWG7n0f",
+      "node_type": "origin",
+      "obj_token": "P2Lfdqww5oDAIUx3ZgQciTN0nig",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈销售侧BP - 【销售侧】天地一体化人机协同管理平台.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "W3A9whATtihQigkirtVctk4RnPy",
+      "node_type": "origin",
+      "obj_token": "PIR1dlIt7oiXp5x8G2ocVdmJnQc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "福州城市智能体(专项) - AI智能体打造有温度的福州-V8-20251031 (1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "JwKcwvrvbiEyhSkyasAcw97Inof",
+      "node_type": "origin",
+      "obj_token": "ZAKYdj50Vo2wjuxGqXxcidrEnfc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "物业服务通案 - AHS Agentrix 空间智能操作系统解决方案v3.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "DtYawJcABifccKks4mJcvvgnnhc",
+      "node_type": "origin",
+      "obj_token": "BuGJdWh1CoErakxvRpPcriSEnSc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "北控水务(专项) - 污水生化反应池智能调控系统技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Gm92wvl2IiSmaXkqKoRcDYwVnOb",
+      "node_type": "origin",
+      "obj_token": "QLGKdv8fJoSbpzxxJTVcabyDnRe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "江苏烟草(专项) - 江苏烟草数据智能运营中枢建设方案 (1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "CFTWwQkT4iFNH3kQzE3cSBvBnag",
+      "node_type": "origin",
+      "obj_token": "PQyhdyq1roSL3jxaiu8c9nOnnmb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Hashkey web3.0(专项) - Agentrix AI Agent Platform(1).pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "WERBwUghKiqlUEkI88rc8n38nyd",
+      "node_type": "origin",
+      "obj_token": "XgrAd6g0BoGMeUxKOe4c3z0wnAb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "美年大健康(专项) - 武汉美年大健康第三次汇报.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "RQYjwfv6Vi6enskiYv0cH6pjnEb",
+      "node_type": "origin",
+      "obj_token": "JAaydhz21oeVDXxPqNDcoPHonAb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "贷后场景 - 贷后-Agentrix AI 企业级数据智能体解决方案V1.0.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Fv9Zw7OGZiclpiker0UcNY2KnYb",
+      "node_type": "origin",
+      "obj_token": "AdA2dzWHHoFiryxbFZBcrCtjnZg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "兼职猫 HR SaaS升级合作 - AI数字员工赋能兼职猫零工服务与HR SaaS升级合作方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "JlkOwMKYhiPAQlkMzJpco8BRn9e",
+      "node_type": "origin",
+      "obj_token": "RlpPdTfTOoT8eqx45FYcfAapnPb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高 企业级PoC - 威高集团企业级AI智能体平台PoC共创方案20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "B4vPwEsVCik84bk1mTgcyIDHngc",
+      "node_type": "origin",
+      "obj_token": "SZ8ZdIXICogNe8xLwzkco882npN",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高(专项) - 威高集团AI智能体战略工程建议书20260509.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "BWNSweVQSiK0VwkKes1cr30wn8b",
+      "node_type": "origin",
+      "obj_token": "C3Q1dDfLFoBwPdxCeSAcOdMTncc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "电力巡检整体方案 - 国网省二级公司电力二次侧巡检智能化解决方案0127.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "EDASwloJPiMMKWkI2e6cCX3YnGg",
+      "node_type": "origin",
+      "obj_token": "OLo0dNPvDorrm0xqCGrcupbrnKK",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "运营商机顶盒业务整体方案 - AIOS平台总体技术方案.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "JKxjwQ21TiRUjTkfOEBcAZWsnBD",
+      "node_type": "origin",
+      "obj_token": "Pxaedol41onSgrxDQrtcfWm5nch",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "咨询行业整体方案 - 爱化身客户&和君咨询战略合作方案-260306.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "FSZ6w4QwNiXAVpkurYFcdHMmnMb",
+      "node_type": "origin",
+      "obj_token": "BMv5dpJF1ob1RZxOgGjcojPvnmb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务(专项) - 中国水务人力资源数智化升级路径探讨20260413-终版.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "ArVEwbjUOiIGp0kYLJTcWCFJnVh",
+      "node_type": "origin",
+      "obj_token": "JuOSdmjwYoOxAVxP03oc1sGxnXP",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS语音智能体平台 - AHS_Voice_Agent_Platform.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "SLWSwCIlMiBHV9kU37LclkNmnOh",
+      "node_type": "origin",
+      "obj_token": "TEN3dZ24gob7M9x7dJLc9AggnQg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "企业AI手机 - AI_WORKMATE_Enterprise_AI_Mobile_System.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "Zm1bwWqYfikO3Xk8fozcMWIln2e",
+      "node_type": "origin",
+      "obj_token": "InawdSJZvoEHkzxOCCqcPyHknCd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "数字生命 - Digital Life - Mind Echo Product Introduction.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "XP6kw8cqHigpzBk2DnicqUsjnne",
+      "node_type": "origin",
+      "obj_token": "JCcvdUJSiofduvxGeSEcd8RUnug",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "语音智能体平台 - 产品说明文档(URL 当文件名,需访问源)"
+    },
+    {
+      "has_child": false,
+      "node_token": "Oq58wgPEqiUNQMkFUqBciXnonxf",
+      "node_type": "origin",
+      "obj_token": "N5pndWoV0ouSCQxoxdecINXPnbc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银项目案例背书 - 爱化身x侨银_企业级智能体落地实践.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "XOdGwWjdmivHFyk4JKQcxXQVnyd",
+      "node_type": "origin",
+      "obj_token": "U9qKdz3BOorXdlxGK2QcyCsvnKb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "公司打法-总体打法 - 爱化身_企业客户服务全景.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QHkjwX7zfiWJTjkBbAucxmsHnKh",
+      "node_type": "origin",
+      "obj_token": "PVyRdzHy5ouDoRxdvBccqoG0n8d",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法-人力资源板块 - 人力资源板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "PipuwwnwbiU51hkDt3Jc0OXinOf",
+      "node_type": "origin",
+      "obj_token": "PzNndwluPospIxxIn9fcomFVnHW",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法-财务和金融板块 - 财务和金融板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "N5PgwO8ici0Y5jknFyMcyhbsnbh",
+      "node_type": "origin",
+      "obj_token": "Tzikde0QgoYtpFxIy6QcAQL2n6b",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法-城市服务行业 - 城市服务行业_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "UyucwwkZriOXwwkhjTwc4xIQnUh",
+      "node_type": "origin",
+      "obj_token": "FLwSd5VdvouNjUxKkjZcz0rMnef",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源专项 - 人力资源板块 —— 业务打法方法论"
+    },
+    {
+      "has_child": false,
+      "node_token": "Rn1qwjHMyiLRQakyJ29cPo36nUf",
+      "node_type": "origin",
+      "obj_token": "Y3I3dbgzdoJzBtxlwtOcFnTcnDc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务&金融专项 - 财务和金融板块_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "QwE3wzZ7Wi6j9akdbtycZtBRnph",
+      "node_type": "origin",
+      "obj_token": "RAXidWvZxowGfaxDDXwclnLbnvd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务专项 - 城市服务行业_业务打法方法论.pdf"
+    },
+    {
+      "has_child": false,
+      "node_token": "XLxnwDInZio6NvkC9nIcFjkMnth",
+      "node_type": "origin",
+      "obj_token": "CQ0ZdiYVio9i7sxQ7Vtc1RWbn3c",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "云启东方技术方案对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "RLDswAxqviEgxuksQguc6MuXnRc",
+      "node_type": "origin",
+      "obj_token": "Ic95dzIU1oD1WcxKpsicN2A3nEe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "云启东方技术方案对外讲述逐字稿 V1.0 20260518"
+    },
+    {
+      "has_child": false,
+      "node_token": "EoyhwBYkHiil1WkaudocfThGnob",
+      "node_type": "origin",
+      "obj_token": "Xl1Hb9Q1Xoxu6ExfUlPcy2brn5d",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "整体通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "UVVUwP5vfii2hjktAjxcBcYansb",
+      "node_type": "origin",
+      "obj_token": "KklgdJlIRoebPUxpu8ucld2Nnub",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "整体通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "BS8Gwmprdiiqj1kIDz7c4ZqgnGb",
+      "node_type": "origin",
+      "obj_token": "S7Mwb9fPkoSMzwxXoatcmcoBnMb",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "产品方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZRVawma2QiU51jkaSGOczOY9nrg",
+      "node_type": "origin",
+      "obj_token": "KNUUd07CKoN2XSxE3Ehc31hnnOf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "产品方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "GjsZwvtRbiwdNWk91tGcsCxWnFg",
+      "node_type": "origin",
+      "obj_token": "MayLbGJUhod4tDxPHPkcPwFZnkO",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "英文通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "X50rw6I3yikujNkqkVyc4sn8nVe",
+      "node_type": "origin",
+      "obj_token": "B9YHb6IB6oWRcpxn28Mc3fLunve",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "英文通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "ExbOwGjfuiV74YkonPGcgxe8n1d",
+      "node_type": "origin",
+      "obj_token": "YjZTdAUuvoKYxFxCST6cAaHBnSf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "英文通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "JkIpwT72fi3MpRkKwkeckJ6Fnde",
+      "node_type": "origin",
+      "obj_token": "E7uVbCoaVot4Y9xodwFcAzDenxc",
+      "obj_type": "file",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆地铁（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "KwfVw0PK6irYN7kEbKBcWloQnJc",
+      "node_type": "origin",
+      "obj_token": "IpMtdQJgroFOT3xwPWnc9Ta2ndc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "重庆地铁（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "RLfQwubEhiozb6kjPyAcWMv9n2d",
+      "node_type": "origin",
+      "obj_token": "RYjrdVZBPoVEZLxdQe9cHWnGn2b",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "海外业务"
+    },
+    {
+      "has_child": false,
+      "node_token": "HbG0w7iRQiYNrXkVWZvcSzYQnag",
+      "node_type": "origin",
+      "obj_token": "QKZZdbxalodSVwx2rDLcufGznnb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源专项"
+    },
+    {
+      "has_child": false,
+      "node_token": "JUy3w0fu4iMHdHk8H17cVPeYnQg",
+      "node_type": "origin",
+      "obj_token": "LoJfdvCmSoi7C8xCXjccTiRAnxh",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "财务&金融专项"
+    },
+    {
+      "has_child": false,
+      "node_token": "AoL5w0XQwiUYigk1XG3cEGOknzc",
+      "node_type": "origin",
+      "obj_token": "C4pBd0WigoYepxx1Sflc6cmMn6d",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "城市服务专项"
+    },
+    {
+      "has_child": false,
+      "node_token": "RinMwiU34it4oikjkJIcvKmbnag",
+      "node_type": "origin",
+      "obj_token": "PdxqdvsvdozlxVxYOJ8csZdLnHf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "Hayrw9CScifuUak9hTAcRgVtnjg",
+      "node_type": "origin",
+      "obj_token": "S0jVdgwp0oc2xhx1SMecErGbnsd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "Phuiwb49Pi88xqkWqoPcmnx7nDh",
+      "node_type": "origin",
+      "obj_token": "T43fdVTGyoAMSLx9Uwwc14vdnoc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "JA2vwuLkJi2h0YkGQRCcOO93nie",
+      "node_type": "origin",
+      "obj_token": "EtHYdzkAuoXrZfx3hrNc6xJlnxg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "Jpt3wSsleifNrokE7XdcHv8GnNc",
+      "node_type": "origin",
+      "obj_token": "JmS4da7LFoxGg9xyfiBcuTf8npO",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "C6wmwB1vriis13kOaF4cqAV7nOe",
+      "node_type": "origin",
+      "obj_token": "W7vZdzkSkoGYvexXebfcgDJYnQg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZRfNwZkAaiCY6ZkmRp6cu5T0nG2",
+      "node_type": "origin",
+      "obj_token": "VIOGdJIDgoYRvlxz3LzcewC4ngf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中文通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "YO5gwnejSiTEhxkQZfncNWHGn8c",
+      "node_type": "origin",
+      "obj_token": "TOMKdvFDIogfzVxzM1Acz7JQnpk",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "电信运营-云启东方（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "MWgGwb9yXiaZxlkqMWTcFrvonzh",
+      "node_type": "origin",
+      "obj_token": "UN4xdb5K9o9X70xBY8bcdSFinMc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "视频演示"
+    },
+    {
+      "has_child": false,
+      "node_token": "YlIqwXagDig6ipkEakvcjSPdn6d",
+      "node_type": "origin",
+      "obj_token": "OXtidfYMXomF4rxRRhRce4lDnpg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "福州城市智能体（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "SsM1wZxeYiBPnUkJ8LIc5hoinnb",
+      "node_type": "origin",
+      "obj_token": "VSk4dmNxfo29BMxXj5Kc9EEXnIf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "北控水务（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "O5VKwHVoYi4e24kyp8gcIg6FnMd",
+      "node_type": "origin",
+      "obj_token": "Co2ad9cH5o1fFdxXVcHcsKiRn33",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "江苏烟草（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "CKo3wtw3KiQSAIkFg0ictML8nuh",
+      "node_type": "origin",
+      "obj_token": "UD2sdTFn3oqZxox5w62cPxj3nwf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "Hashkey web3.0（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "N3dtwEaMyiEBG6kJKsHcRzHmnbe",
+      "node_type": "origin",
+      "obj_token": "NEuid9zkWofhBUxhHRqcHMBxnYe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "美年大健康（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "GzpHwgGhriCE0lkI5AIc7NVwn0f",
+      "node_type": "origin",
+      "obj_token": "CKl3d2e9PolxpCxjBxXcEi0VnVe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "贷后场景"
+    },
+    {
+      "has_child": false,
+      "node_token": "KxmPwyAnKieIfykhNoGcmlKFnHg",
+      "node_type": "origin",
+      "obj_token": "At8pdfSK7oaUCsx9Phac6sVXnZd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "中国水务（专项）"
+    },
+    {
+      "has_child": false,
+      "node_token": "FasuwvVXViMewTkQUpUcctDxnIf",
+      "node_type": "origin",
+      "obj_token": "NmiSdi74koAaqlxjkKSc8KwLnTe",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "数字生命"
+    },
+    {
+      "has_child": false,
+      "node_token": "S3MVw6MPuixrjtkr9jfc7y0ynGg",
+      "node_type": "shortcut",
+      "obj_token": "BFHDdkpu6ogNJLx2fLCcFDJJn3f",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AI版 BOSS解决方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "L2JrwoRHnilxa5kePNTc1bwxnKb",
+      "node_type": "shortcut",
+      "obj_token": "DhFld5sQfoeQ0IxiWJlcgyMcnWb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈业务BP"
+    },
+    {
+      "has_child": false,
+      "node_token": "LtcTwt5VJi1tEbkbtXwcRNEynFd",
+      "node_type": "shortcut",
+      "obj_token": "XbXadoz0poXTn5xWjKlc8DErnve",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "物业服务通案"
+    },
+    {
+      "has_child": false,
+      "node_token": "THkJwlRsAiW6nMkWSYdcQBd3nSb",
+      "node_type": "shortcut",
+      "obj_token": "SYd7dGv5uoYlinxRFSocKs4QnEg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "兼职猫 HR SaaS升级合作"
+    },
+    {
+      "has_child": false,
+      "node_token": "XsH3wGn3MiKTrPk7BbJc9GbynQd",
+      "node_type": "shortcut",
+      "obj_token": "AQPDdwHzDo8ur1xgjr0cctWVncf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "威高 企业级PoC"
+    },
+    {
+      "has_child": false,
+      "node_token": "VnevwELzuiTtuOk6R6dcbQ8nnPg",
+      "node_type": "shortcut",
+      "obj_token": "JnIHd8VmvoR6f5xJFGuc7uOWnZd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "电力巡检整体方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "B1SNwyPV3iky3qkNeXqcbJtBn2g",
+      "node_type": "shortcut",
+      "obj_token": "DfA0dFlkroC7BmxzyydcwWj5nch",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "运营商机顶盒业务整体方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "B79HwUNcqiIkjCkAzibcAeMRnDh",
+      "node_type": "shortcut",
+      "obj_token": "GXCkd1Dmiom27AxRJNzcT1YUnWd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "咨询行业整体方案"
+    },
+    {
+      "has_child": false,
+      "node_token": "TVORwKLxBiMvsnkT2eKc834xn3o",
+      "node_type": "shortcut",
+      "obj_token": "Rstnd0HxzoFlWRxNs9RcFRw1nTW",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "侨银项目案例背书"
+    },
+    {
+      "has_child": false,
+      "node_token": "IxjTwnRQAiJfHSkmFkCcNigpnRf",
+      "node_type": "shortcut",
+      "obj_token": "DhFld5sQfoeQ0IxiWJlcgyMcnWb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈业务BP"
+    },
+    {
+      "has_child": false,
+      "node_token": "SVyLwLcCli58zUkM0MjcGOcCnIb",
+      "node_type": "origin",
+      "obj_token": "TazVd7lflobREExNtdbccFrzn6f",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源-索引卡-recvnkDqOh0HJI"
+    },
+    {
+      "has_child": false,
+      "node_token": "ETjgwdHAviQWkBkcSsqcqnRsnGf",
+      "node_type": "origin",
+      "obj_token": "XZ6uduLwVoyQRsxFTcUc05XynZg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "公司介绍/通案-索引卡-recvoFt0lSRivV"
+    },
+    {
+      "has_child": false,
+      "node_token": "TNq9wG24diYW4KkMYSNcv5chnvf",
+      "node_type": "origin",
+      "obj_token": "XTAQdpnlpoOrB3xBT18cHlPenyf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "银行,保险,金融-索引卡-recvoFsZT90p3I"
+    },
+    {
+      "has_child": false,
+      "node_token": "WoiRwoDUwiztAbkmorFcP9bYnEc",
+      "node_type": "origin",
+      "obj_token": "AMnXdZSbKoRutFxUtp3crvjTnee",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "行业=['人力资源']-索引卡-recvoK5EKSgVKW"
+    },
+    {
+      "has_child": false,
+      "node_token": "GGi2wiob9ijljfk0i9zcAgqTnM3",
+      "node_type": "origin",
+      "obj_token": "Sym2dKjQdoVPVlxDbx6ckpg0nRf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "行业=['物业和城服']-索引卡-recvoK5Jl9gDl4"
+    },
+    {
+      "has_child": false,
+      "node_token": "Sdh2wghROiNqtoklUq0cK4MznDd",
+      "node_type": "origin",
+      "obj_token": "PxDXdpo9loHO5Dxil2McIUZgnlf",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "人力资源空记录-zoSCWj-gVKW"
+    },
+    {
+      "has_child": false,
+      "node_token": "T8N2w34KYi2kwCkcZMqc6fBlnKg",
+      "node_type": "origin",
+      "obj_token": "KBhBdB9BhoBpaUx5xFUcr1s0nvc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "物业和城服空记录-zoSCWj-gDl4"
+    },
+    {
+      "has_child": false,
+      "node_token": "VGKcwTtcGidh5UkyFnxcoL8bn0V",
+      "node_type": "origin",
+      "obj_token": "XSh9dALPHoxhyaxA2iRcOK2BnYO",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "银行，保险，金融空记录-zoSCWj-10UW"
+    },
+    {
+      "has_child": false,
+      "node_token": "GIRkweu6siwbsjkhaAVcbbVhnAd",
+      "node_type": "shortcut",
+      "obj_token": "GQxFdbjrXoDU8rx1TEpceWdkndg",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "天奈销售侧BP"
+    },
+    {
+      "has_child": false,
+      "node_token": "WplWwkt4fihKZNklAFAczOAEnPf",
+      "node_type": "shortcut",
+      "obj_token": "QzFGdcHMxoGcE2xQx6rc8xNfnWb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AHS语音智能体平台"
+    },
+    {
+      "has_child": false,
+      "node_token": "Ol75w5HU7iiZzikRE2icjCqbnOf",
+      "node_type": "shortcut",
+      "obj_token": "WgJ2dX4fLoTmxCxlYTucp9CpnKd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "企业AI手机"
+    },
+    {
+      "has_child": false,
+      "node_token": "SoVJw0XToi4AnxkeFVuczxKrnvd",
+      "node_type": "shortcut",
+      "obj_token": "KQ8RdKQItoAF4uxoocPcyZpinCd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "语音智能体平台"
+    },
+    {
+      "has_child": false,
+      "node_token": "YOAfwQ82ei79b2kwKXCcggAvnHd",
+      "node_type": "shortcut",
+      "obj_token": "OOHQd2NatoVFxCxTpq3cwLltneb",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "公司打法-总体打法"
+    },
+    {
+      "has_child": false,
+      "node_token": "Mbv0wGxHOi1V5HkqpnycaxRdnPc",
+      "node_type": "shortcut",
+      "obj_token": "JmPwdxoU4oWfezx04CTcLGN0nMd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "DataOS"
+    },
+    {
+      "has_child": false,
+      "node_token": "NDoEwZ6qQi8G7CkOfoic81zWned",
+      "node_type": "shortcut",
+      "obj_token": "RbimdwgGIorGypx454oc8QIJnxc",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "公司技术白皮书"
+    },
+    {
+      "has_child": false,
+      "node_token": "IQNVwFpBEiibuTkgTPWcqeLSnKb",
+      "node_type": "shortcut",
+      "obj_token": "N2Rjd9h2xoHH9vxlbxpcCsiznFd",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AgentOS"
+    },
+    {
+      "has_child": false,
+      "node_token": "BbqKwZVAsifcv2kFDOTcbUkNnxc",
+      "node_type": "shortcut",
+      "obj_token": "RAGHd4MdwoOgiIxgTL1c3fxGnje",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "AgentWorkforce"
+    },
+    {
+      "has_child": false,
+      "node_token": "Sti5wEq83iwfPuk5aQGcsbK5ndh",
+      "node_type": "origin",
+      "obj_token": "Z5tcdnddhoKCH6xDqIRc4lF7n4R",
+      "obj_type": "docx",
+      "parent_node_token": "FIkGwuVG3i72TfkNCjLchaVnnbh",
+      "space_id": "7649949026715978701",
+      "title": "解决方案-SCwj-recvqDtUt4GNEp"
+    },
+    {
+      "has_child": false,
+      "node_token": "LOAZwg4S8i2lg5kFOTTcoxB0nOb",
+      "node_type": "origin",
+      "obj_token": "LtZ0bp7ZEoetAKxdieocHvQWnBg",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "售前阶段对客代表性问题skill.zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "ANSKwgQS6iKgXqkixgRcWCyKnSg",
+      "node_type": "origin",
+      "obj_token": "J1QldDl53oFBChx4jbucvNvfnMb",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "数字广东售前阶段对客代表性问题合集-20260528"
+    },
+    {
+      "has_child": false,
+      "node_token": "USupwer1NiMSKxkLLFhc8U6vnbh",
+      "node_type": "origin",
+      "obj_token": "Zd8RbGd7bolCv0xXkgGcAYADndd",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "交互演示逐字稿（五分钟压缩版+逐页对应版）.zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "NLyewkbA4ii2aMkSkIScHqHQnce",
+      "node_type": "origin",
+      "obj_token": "SFUGbqro2oa1qtxwRhdc4RiFnfg",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "OAGReasoner_企业本体图谱推演演示逐字稿_纯逐字稿版.docx"
+    },
+    {
+      "has_child": false,
+      "node_token": "FyUpwXisEiAdYdkdfSDcmyATnMg",
+      "node_type": "origin",
+      "obj_token": "ApVqb5sodo6eQKx3tNOcoOHgn3e",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "pack_project (5).zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "FzCFwzLg6i4N9gk5v91cXbrRnxh",
+      "node_type": "origin",
+      "obj_token": "Nv7PbqgkXoyAL3xUi6pcxhfgnrg",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "SSM Agentrix Skills.zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "QP0jwayW7iwzfLkg4wfcusbJncf",
+      "node_type": "origin",
+      "obj_token": "EPKybj09XoY1LyxDI4ycIsy8nwb",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "presales-project-evaluator-v3.zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "Pxj7wepWki0BFqkqZLqcNgtnnXe",
+      "node_type": "origin",
+      "obj_token": "Co7obECbhoFO1txsV5Fczu46nfb",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "客户情绪潜意识感知skill.zip"
+    },
+    {
+      "has_child": false,
+      "node_token": "QewUwEr24itiG9kBNHEcZugMnvg",
+      "node_type": "origin",
+      "obj_token": "GNAudQdwJogbl0xVCHmchhE4nVb",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "SSM skill 实战应用示例"
+    },
+    {
+      "has_child": false,
+      "node_token": "VFNQwc9R6iGAc1kKsMQcau6bnxB",
+      "node_type": "origin",
+      "obj_token": "SGujddPwnoerkvx1gVpcMnK0n1b",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "客户情绪感知&人格拆解"
+    },
+    {
+      "has_child": false,
+      "node_token": "X0I5w9ksiirMTCkE0tic1ZfInVe",
+      "node_type": "origin",
+      "obj_token": "GIRVbUmgGoi6dXxniZKcHsnXnlW",
+      "obj_type": "file",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "交互原型逐字稿"
+    },
+    {
+      "has_child": false,
+      "node_token": "NxAOwqlcyiplt6kQpfhcaHCcnfb",
+      "node_type": "origin",
+      "obj_token": "PuD1dcT8JoA1PLxzZaKcvL0inRc",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "销售阶段分析与后续打法分析"
+    },
+    {
+      "has_child": false,
+      "node_token": "FHxMwieUYiUtfKkyWnucMjlfnM1",
+      "node_type": "origin",
+      "obj_token": "FxFSd1nLGoWhzfx58wCcLIBMn5g",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "销售阶段分析与后续打法分析"
+    },
+    {
+      "has_child": false,
+      "node_token": "NS0qwzdosiCVFfkYAKpccBqrn7f",
+      "node_type": "origin",
+      "obj_token": "BT6Cd6hwVozPDqx3jKCc3Rhunng",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "Agentrix方案架构输出"
+    },
+    {
+      "has_child": false,
+      "node_token": "BwB8wdJXLifd7Qk7m8UcDpMsnFe",
+      "node_type": "origin",
+      "obj_token": "QW5kdMHKKo5TAtxQz5ycQ7Wvnfp",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "售前项目评估"
+    },
+    {
+      "has_child": false,
+      "node_token": "SJB7wUrOSiF00okNWIWcsigMnFb",
+      "node_type": "origin",
+      "obj_token": "LTEgdaRwQotsODxNXI4chLAAnId",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "优质HTML风格展示"
+    },
+    {
+      "has_child": false,
+      "node_token": "JZDxwzzi3iqkk7klxzdcu68Un3d",
+      "node_type": "shortcut",
+      "obj_token": "CAjOd6EezoIYhXxg8lZc2WW0nGf",
+      "obj_type": "docx",
+      "parent_node_token": "O5sIwcyU7ipTvQkITFTcpHwYnUh",
+      "space_id": "7649949026715978701",
+      "title": "skills使用方式："
+    },
+    {
+      "has_child": false,
+      "node_token": "D9EdwsTCSiYzKRkbyuccoJIdndg",
+      "node_type": "origin",
+      "obj_token": "L2jQdYFyjoLu2uxsMJkc8Bo2nac",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "AI Native Todo"
+    },
+    {
+      "has_child": false,
+      "node_token": "FtXWwBKqYiVC8ZkbD1lcIWaHnag",
+      "node_type": "origin",
+      "obj_token": "K34VdZGUIoUkSHxtvuIcSgDPnLg",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "AI Native端到端输出最终产物"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZqHcwk9wtiFPt9kq2V9czLonnLf",
+      "node_type": "origin",
+      "obj_token": "ZW1jdsLEmooxmBx76ysckx1vnxc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "AI Native组织"
+    },
+    {
+      "has_child": false,
+      "node_token": "BppxwWq4HiChvRkjBpkcY9qgnod",
+      "node_type": "origin",
+      "obj_token": "NsPidZ2M5oIlS3xZm8NcdL1Nnge",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "Palantir 内容演示"
+    },
+    {
+      "has_child": false,
+      "node_token": "WdT7w0V7GiCAAMkiecZcFwi7nid",
+      "node_type": "origin",
+      "obj_token": "OD9NdDw6Ho1V5fxEwZRcjhGZn9j",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "Palantir获客策略"
+    },
+    {
+      "has_child": false,
+      "node_token": "MiNlw9xPJixL39kV6ahc6Yjnnfh",
+      "node_type": "origin",
+      "obj_token": "EwIidDguUoOt7CxFUN6chIoQnif",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "Paltantir如何做到100%客户钱包占有率"
+    },
+    {
+      "has_child": false,
+      "node_token": "S7MywjrUPiNhLkkJKVfcKu6gnLg",
+      "node_type": "origin",
+      "obj_token": "AmicdUQ4eoZ1moxn8qfcmU7Enyc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "爱化身数据Token化-行业知识图谱"
+    },
+    {
+      "has_child": false,
+      "node_token": "VFXRwq46AiAhR8kXqeHcWLuHnIg",
+      "node_type": "origin",
+      "obj_token": "EHIqdD4j5ooGTwxUAdSctzKWngb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "参考Palantir形成产品技术平台数据闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "Wsy3wPaAHiduuZkxIHecjKhrnbf",
+      "node_type": "origin",
+      "obj_token": "Aucfdd6FBoKrlUxZXVAcVpZ1nff",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "技术Agent：外脑"
+    },
+    {
+      "has_child": false,
+      "node_token": "HXaBwggB8iJ2g7kKtBtcD9sSn3c",
+      "node_type": "origin",
+      "obj_token": "MKKtdPzd2onQAaxtSLWcJ465nlb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "芒格的早餐会-AI早餐会思维"
+    },
+    {
+      "has_child": false,
+      "node_token": "NfUdwk8pNiSj03kkooqcDR9Yn2g",
+      "node_type": "origin",
+      "obj_token": "AUODdwJAToKZczxLKrMcRXqFnze",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "每个终端都是智能体：Palantir硬件智能体生态"
+    },
+    {
+      "has_child": false,
+      "node_token": "Sqvlw2zbvirMHnkjjTwccttGnNe",
+      "node_type": "origin",
+      "obj_token": "Tprcd4KP1oXTCcxm4XWc1WGFnWf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "人为中心：人机协作维度Agent"
+    },
+    {
+      "has_child": false,
+      "node_token": "T34hwAGJjiKXtLki7jYcELNUnxf",
+      "node_type": "origin",
+      "obj_token": "AXWqd9hAloq5BTxHVGPcuJNmnje",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "什么是搞定实控人"
+    },
+    {
+      "has_child": false,
+      "node_token": "BVctwG5JPiuVrikQNhZcmGBpnPe",
+      "node_type": "origin",
+      "obj_token": "GgWEdezJ4oo6xKxPNKEcx3CSn5x",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "数据为中心：企业Agent方案规划"
+    },
+    {
+      "has_child": false,
+      "node_token": "I8oRwpFebigwt5kN6wocqOkqnif",
+      "node_type": "origin",
+      "obj_token": "MBm3d3sJWoSaXnx9ncDcUfLFn2f",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "问大模型-你如何做我的外部大脑呢-从10-50年共同成长的角度"
+    },
+    {
+      "has_child": false,
+      "node_token": "WDNGwSC5fids2EkSCE9cUKGwnvh",
+      "node_type": "origin",
+      "obj_token": "IKgOdu3jvoGpi6xlFCEcrUbOnWb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "AI_Native组织×Ageatrix全景框架.pptx"
+    },
+    {
+      "has_child": false,
+      "node_token": "M3aAwBKQ0ixuC8k76dSc90BFnrf",
+      "node_type": "origin",
+      "obj_token": "NllDdqGyLoSk0txtoLBcjaxvnvb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "基于Palantir平台的6个月AI驱动组织落地计划-20250913"
+    },
+    {
+      "has_child": false,
+      "node_token": "Sv2qwkLUri0n3qkhRCkcxHcenVe",
+      "node_type": "origin",
+      "obj_token": "Q0TrdTUaJoUCQ0x1YACcaV6xnoc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "Palantir FDE落地参考华为铁三角融合-20251125"
+    },
+    {
+      "has_child": false,
+      "node_token": "S8eowRjVwiz2wvkwz8xctbZan0f",
+      "node_type": "origin",
+      "obj_token": "PJnJdZk4so7rmxx5PyZcInKGnNb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "跨境电商Agent os市场及产品策略"
+    },
+    {
+      "has_child": false,
+      "node_token": "FXBoweIAHiJGjZk9JBbcWmYxnUe",
+      "node_type": "origin",
+      "obj_token": "TBYBdYy30o47UhxZWxQcS209nva",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "基于Palantir平台为传统金融银行实现AI驱动转型的6个月项目落地计划-中英文-20250913.markdown"
+    },
+    {
+      "has_child": false,
+      "node_token": "VoMMw5bQ0iKVD3kosCDcilWunlf",
+      "node_type": "origin",
+      "obj_token": "Sa3OdS8cJoWW3Kx0vmVcq1y9nTb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "基于Palantir平台为2000人以上电话催收公司实现AI驱动转型的6个月项目落地计划-20250913"
+    },
+    {
+      "has_child": false,
+      "node_token": "F7mEwYevFia4MKk0PiZc45WXnTb",
+      "node_type": "origin",
+      "obj_token": "ZJyGd9Gf5oWg5OxtXhLcvWn3n0d",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "假设你是Palantir客户成功6个月落地案例-Deepseek版本-20250913"
+    },
+    {
+      "has_child": false,
+      "node_token": "Pno7wYgfhio03LkOnWYcqpsCnRQ",
+      "node_type": "origin",
+      "obj_token": "TGIpdefbgovjhCxX6jacRMMSnqc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "参考Palantir形成产品、技术、平台、数据闭环系统并以Agent为核心，进行命名-20250831"
+    },
+    {
+      "has_child": false,
+      "node_token": "Z5U3w4qPAisMqakatkXccklSnDc",
+      "node_type": "origin",
+      "obj_token": "TrlXdzjV6o65dExhIabcKFaHnkf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "EjAOwjZXWiT4tQkNEg1caGRAnic",
+      "node_type": "origin",
+      "obj_token": "HOZJdMJYroS5p7xuTcjc5fsuncg",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "2-AI Native OS执行"
+    },
+    {
+      "has_child": false,
+      "node_token": "MAaYwRN0qitvqvkXeyncRPOPnWc",
+      "node_type": "origin",
+      "obj_token": "DP4PdtmfCo8pC8xDjVxcRqsVnug",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "MQ8FwlYvRiryGAkPmEicnYQNnPb",
+      "node_type": "origin",
+      "obj_token": "Fj0VdMT2EoS9nPxwg1IcHM8inCd",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "DdKPwIGwPijh4TkMRn1cgDewnnd",
+      "node_type": "origin",
+      "obj_token": "D8mzdcbjBocw8uxb4wecIHhXn3d",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "Mtgsw5KtYixIJykx4BVc1Ieanzc",
+      "node_type": "origin",
+      "obj_token": "SJa1dgzHxoqqqlxFymkcBcRxnFf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "SVhUwAskVik7k2kmEgtcdwoUnDc",
+      "node_type": "origin",
+      "obj_token": "QmTXd3kpgo9v8dx91OacJgG9nEc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "Xg9gwNBdMi2pObkrs92cD62Qneb",
+      "node_type": "origin",
+      "obj_token": "ZaTYdKKEcoeWqAxvVufc0Cqfn4f",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "F8J5wBxYJiyG3Tk6Yysc45fanLe",
+      "node_type": "origin",
+      "obj_token": "UIFYdy1VioaRapxqzsbcu2lTnkg",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "TW5Jw1KLPiwAbLkiiL0cUpOcnRh",
+      "node_type": "origin",
+      "obj_token": "LzSxdDdQMooKiuxIcAqcQCadnzc",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "EZBWwiNKzi2dIdkUC6xcTCpOnpb",
+      "node_type": "origin",
+      "obj_token": "VEWZdXXlSo8AADx1KkzcA5YJnjp",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "NKwgwEuYpiHtaDkQ1g3cmctYnQh",
+      "node_type": "origin",
+      "obj_token": "IMS7dJ4YnoAvUdxc39bcpjKDnBf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "M31swCb4MiG6MTk1AbSc5LRDn2e",
+      "node_type": "origin",
+      "obj_token": "QOE8dH08ooOhJJx278zcGSCrnjf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "CrhpwfTXNiFmSDkQ0fNcgARmn3k",
+      "node_type": "origin",
+      "obj_token": "Yy2xdp1H6oLihgxvFTKc5NmPnKb",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "2-AI Native OS执行"
+    },
+    {
+      "has_child": false,
+      "node_token": "VBDSwDcrFiRTctkNG0acbL46nvd",
+      "node_type": "origin",
+      "obj_token": "THKkd7cQko1q4gxAEFScCd8fnHf",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "SyN6wfv1Fizqy5k22bCcOZrNn5H",
+      "node_type": "origin",
+      "obj_token": "XRcNdFi81ovRgvx9CEccNux7n0o",
+      "obj_type": "docx",
+      "parent_node_token": "BTgJw1GmMi8yg1koeCccM4A8nFc",
+      "space_id": "7649949026715978701",
+      "title": "1-AI Native 端到端 闭环"
+    },
+    {
+      "has_child": false,
+      "node_token": "ZWzRwtQM4itbbEkGOglcqVj9n5e",
+      "node_type": "origin",
+      "obj_token": "WgyOsdcAIhpcD9trCN7c98Ggnib",
+      "obj_type": "sheet",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "爱化身科技行业认知和媒体定调资产包"
+    },
+    {
+      "has_child": false,
+      "node_token": "Te5rw8TAKivQOFkuKINcLHctnpe",
+      "node_type": "origin",
+      "obj_token": "X97jbusJ2ov2xGxC1S3c4Vlbnjh",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "爱化身科技公司级对外发声与信息使用执行规范.docx"
+    },
+    {
+      "has_child": false,
+      "node_token": "IFg6wHhx5iEvOakBpaOcTRk2nnd",
+      "node_type": "origin",
+      "obj_token": "KcM7bWPf8oHSm1xf2yMcf45Endg",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "【海报】本体论_销售一页纸.jpg"
+    },
+    {
+      "has_child": false,
+      "node_token": "LFFcw4msfiLYgMkbAkrcGwxfnmb",
+      "node_type": "origin",
+      "obj_token": "IMkmb0TLDozKeRxEnP7cinDynDc",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "【海报】爱化身介绍_销售一页纸.jpg"
+    },
+    {
+      "has_child": false,
+      "node_token": "Nk59wwbVKimpo7kV1F4cMklpnNh",
+      "node_type": "origin",
+      "obj_token": "WGQPbVD9Lopy3pxnf7Zc7NBxnfc",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "【打印】爱化身介绍_销售一页纸_A4.png"
+    },
+    {
+      "has_child": false,
+      "node_token": "PVDrwF0h0iYXYtkDbo8cMTprnaf",
+      "node_type": "origin",
+      "obj_token": "F1rsbv5jqo0XdGxsau6c12lWnPg",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "【打印】本体论_销售一页纸A4_01.png"
+    },
+    {
+      "has_child": false,
+      "node_token": "KCIywUfwPiHl9QkYVBxcTNcAnKg",
+      "node_type": "origin",
+      "obj_token": "WslMbmDVropegSxxkCDc5KCsnEg",
+      "obj_type": "file",
+      "parent_node_token": "EUZ3wwWXZi5up1kSkOrcHNR4nce",
+      "space_id": "7649949026715978701",
+      "title": "【打印】本体论_销售一页纸A4_02.png"
+    },
+    {
+      "has_child": false,
+      "node_token": "FyeawwDsKiDDZlkBEPccNZndnjg",
+      "node_type": "origin",
+      "obj_token": "NdbFd2c9aoSISlxOWkVc4Nzon0e",
+      "obj_type": "docx",
+      "parent_node_token": "AbN0ws9k9iuwmpkLZeQcUnRInzU",
+      "space_id": "7649949026715978701",
+      "title": "培训与发展"
+    },
+    {
+      "has_child": false,
+      "node_token": "JqOFwk76TiSh60kZFykcgpthn3b",
+      "node_type": "origin",
+      "obj_token": "R22SdHl52ouuouxzLWkc9f0bnPh",
+      "obj_type": "docx",
+      "parent_node_token": "AbN0ws9k9iuwmpkLZeQcUnRInzU",
+      "space_id": "7649949026715978701",
+      "title": "入职与融入"
+    },
+    {
+      "has_child": false,
+      "node_token": "CSBTwvL0UioIR0k9lV7cjTkUnke",
+      "node_type": "origin",
+      "obj_token": "CpKPbL5RRodQjUxIYsbcEQwZnnf",
+      "obj_type": "file",
+      "parent_node_token": "FpWIwzWYYiiyrpkIvnbcwmjanpd",
+      "space_id": "7649949026715978701",
+      "title": "爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx"
+    }
+  ]
+}
+

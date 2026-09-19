@@ -1,0 +1,38 @@
+{
+  "capture": {
+    "source_id": "FS-003",
+    "key": "doc_dataos",
+    "title": "DataOS",
+    "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Mbv0wGxHOi1V5HkqpnycaxRdnPc",
+    "node_token": "Mbv0wGxHOi1V5HkqpnycaxRdnPc",
+    "obj_token": "JmPwdxoU4oWfezx04CTcLGN0nMd",
+    "revision_id": 3,
+    "captured_on": "2026-09-19",
+    "source_updated_on": null,
+    "kind": "index_card",
+    "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-003.json",
+    "md_path": null,
+    "redactions": [],
+    "media_captured": false
+  },
+  "response": {
+    "ok": true,
+    "identity": "user",
+    "data": {
+      "document": {
+        "content": "<title>DataOS</title>\n\n# DataOS - Base 索引卡\n\n> **自动生成时间**: 2026-07-24 20:00 | **任务**: AI Native知识库差异补全(oneshot)  \n> **记录 ID**: `recvqhhBbBtbsR` | **表**: 解决方案材料(持续更新) `tbllRyd1JazoSCWj`\n\n## 1. Base 记录链接\n\n[Bae 记录详情](https://xqmqf98k8t.feishu.cn/base/VwOSbRhGEa5Tp7s2m94cWBZ0nnd?table=tbllRyd1JazoSCWj&view=&record=recvqhhBbBtbsR)\n\n## 2. Base 全部字段摘要\n\n| 字段 | 值 |\n|-|-|\n| 方案名称 | DataOS |\n| 可编辑材料 | *(空)* |\n| 行业领域 | 公司介绍/通案 |\n| PDF材料 | [DataOS_技术白皮书.pdf](https://xqmqf98k8t.feishu.cn/file/IgECbi9CBoSfS6xfZV8cQX8rned) |\n| 父记录 | recvqhhwUKLLKv |\n| 材料概述 | 面向企业的数据基础设施产品，定位企业级数据资产化与运营平台。面向数据治理、指标管理、跨系统数据流通等场景，适用于金融、运营商、零售等数据资产体量大的中大型组织。 |\n| 参考逐字稿 | *(空)* |\n\n## 3. 原始 URL\n\n- **PDF材料**: [https://xqmqf98k8t.feishu.cn/file/IgECbi9CBoSfS6xfZV8cQX8rned](https://xqmqf98k8t.feishu.cn/file/IgECbi9CBoSfS6xfZV8cQX8rned)\n\n---\n\n**报告任务**: 触发器 `trigger_meta_4kfemrwjjjhj3` 触发(7-24 20:00 定时)| 适用规则: 规则 1(索引卡,带链接)",
+        "document_id": "JmPwdxoU4oWfezx04CTcLGN0nMd",
+        "revision_id": 3
+      }
+    },
+    "_notice": {
+      "update": {
+        "command": "lark-cli update",
+        "current": "1.0.95",
+        "latest": "1.0.96",
+        "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+      }
+    }
+  }
+}
+

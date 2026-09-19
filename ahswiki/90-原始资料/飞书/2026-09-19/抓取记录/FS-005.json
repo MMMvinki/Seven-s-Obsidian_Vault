@@ -1,0 +1,38 @@
+{
+  "capture": {
+    "source_id": "FS-005",
+    "key": "doc_agentos",
+    "title": "AgentOS",
+    "source_url": "https://xqmqf98k8t.feishu.cn/wiki/IQNVwFpBEiibuTkgTPWcqeLSnKb",
+    "node_token": "IQNVwFpBEiibuTkgTPWcqeLSnKb",
+    "obj_token": "N2Rjd9h2xoHH9vxlbxpcCsiznFd",
+    "revision_id": 3,
+    "captured_on": "2026-09-19",
+    "source_updated_on": null,
+    "kind": "index_card",
+    "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-005.json",
+    "md_path": null,
+    "redactions": [],
+    "media_captured": false
+  },
+  "response": {
+    "ok": true,
+    "identity": "user",
+    "data": {
+      "document": {
+        "content": "<title>AgentOS</title>\n\n# AgentOS - Base 索引卡\n\n> **自动生成时间**: 2026-07-24 20:00 | **任务**: AI Native知识库差异补全(oneshot)  \n> **记录 ID**: `recvqhhBxPgL3Y` | **表**: 解决方案材料(持续更新) `tbllRyd1JazoSCWj`\n\n## 1. Base 记录链接\n\n[Bae 记录详情](https://xqmqf98k8t.feishu.cn/base/VwOSbRhGEa5Tp7s2m94cWBZ0nnd?table=tbllRyd1JazoSCWj&view=&record=recvqhhBxPgL3Y)\n\n## 2. Base 全部字段摘要\n\n| 字段 | 值 |\n|-|-|\n| 方案名称 | AgentOS |\n| 可编辑材料 | *(空)* |\n| 行业领域 | 公司介绍/通案 |\n| PDF材料 | [AgentOS技术白皮书.pdf](https://xqmqf98k8t.feishu.cn/file/WUJtbLYwhoBD5mxsLQicqb6cnUc) |\n| 父记录 | recvqhhwUKLLKv |\n| 材料概述 | 面向企业的 AI Agent 平台型产品，提供 Agent 的构建、部署、运营全流程能力。面向多 Agent 协同、复杂业务流程自动化等场景，适用于政企、金融、制造等行业需要把 AI 能力落到生产系统的客户。 |\n| 参考逐字稿 | *(空)* |\n\n## 3. 原始 URL\n\n- **PDF材料**: [https://xqmqf98k8t.feishu.cn/file/WUJtbLYwhoBD5mxsLQicqb6cnUc](https://xqmqf98k8t.feishu.cn/file/WUJtbLYwhoBD5mxsLQicqb6cnUc)\n\n---\n\n**报告任务**: 触发器 `trigger_meta_4kfemrwjjjhj3` 触发(7-24 20:00 定时)| 适用规则: 规则 1(索引卡,带链接)",
+        "document_id": "N2Rjd9h2xoHH9vxlbxpcCsiznFd",
+        "revision_id": 3
+      }
+    },
+    "_notice": {
+      "update": {
+        "command": "lark-cli update",
+        "current": "1.0.95",
+        "latest": "1.0.96",
+        "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+      }
+    }
+  }
+}
+

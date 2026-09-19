@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "captured_on": "2026-09-19",
+  "space_id": "7649949026715978701",
+  "space_name": "AHS企业知识库",
+  "scope": "Selected accessible branches only; not a complete enterprise export",
+  "sources": [
+    {
+      "source_id": "FS-001",
+      "key": "doc_norm",
+      "title": "知识库规范",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/F6VPwLswNi9bxVksegZcNyuZnYT",
+      "node_token": "F6VPwLswNi9bxVksegZcNyuZnYT",
+      "obj_token": "XevZdKB5QoZiNtxB94hciMKdnSg",
+      "revision_id": 2,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-001.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "E696502B4AB190467DD71AEBA45A83A44209DBC68374E921E239BA5C39C977EC"
+      }
+    },
+    {
+      "source_id": "FS-002",
+      "key": "doc_rd",
+      "title": "产品研发",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Q4RQwYNw4iDgzBkEluwclNFPn8c",
+      "node_token": "Q4RQwYNw4iDgzBkEluwclNFPn8c",
+      "obj_token": "B35hdFyccotPqGx7OkPcx5zwn1f",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-002.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "F573112FF7BC24038DB42589B161AA996902E9840BE9D6769846F90C548CA6E4"
+      }
+    },
+    {
+      "source_id": "FS-003",
+      "key": "doc_dataos",
+      "title": "DataOS",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Mbv0wGxHOi1V5HkqpnycaxRdnPc",
+      "node_token": "Mbv0wGxHOi1V5HkqpnycaxRdnPc",
+      "obj_token": "JmPwdxoU4oWfezx04CTcLGN0nMd",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-003.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "C894CC185F5E27C581CA46EC4BDAF1DC04B3F77033105F8644C56AA8E5571AD8"
+      }
+    },
+    {
+      "source_id": "FS-004",
+      "key": "doc_company_white",
+      "title": "公司技术白皮书",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/NDoEwZ6qQi8G7CkOfoic81zWned",
+      "node_token": "NDoEwZ6qQi8G7CkOfoic81zWned",
+      "obj_token": "RbimdwgGIorGypx454oc8QIJnxc",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-004.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "F29E5AF50A7B9434A61319AAA833EDE2E330E0747EC4216F5D0DA89E0DCD40FE"
+      }
+    },
+    {
+      "source_id": "FS-005",
+      "key": "doc_agentos",
+      "title": "AgentOS",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/IQNVwFpBEiibuTkgTPWcqeLSnKb",
+      "node_token": "IQNVwFpBEiibuTkgTPWcqeLSnKb",
+      "obj_token": "N2Rjd9h2xoHH9vxlbxpcCsiznFd",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-005.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "19705680BD8FD5DDE6CE056135DBD1455A0521ACBB329538A945FD8D7596ACFA"
+      }
+    },
+    {
+      "source_id": "FS-006",
+      "key": "doc_workforce",
+      "title": "AgentWorkforce",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/BbqKwZVAsifcv2kFDOTcbUkNnxc",
+      "node_token": "BbqKwZVAsifcv2kFDOTcbUkNnxc",
+      "obj_token": "RAGHd4MdwoOgiIxgTL1c3fxGnje",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-006.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "18BA01F33D41D80341350DDC2EE57D2A4F3358CD20616BF82B0284ECFBA10E5C"
+      }
+    },
+    {
+      "source_id": "FS-007",
+      "key": "doc_onboard",
+      "title": "新人指南",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Z9sFwr1bEiTovSkmtStcFrODnse",
+      "node_token": "Z9sFwr1bEiTovSkmtStcFrODnse",
+      "obj_token": "ZJaidJ1LeoCrbbxJ2DncHgYbnee",
+      "revision_id": 11,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-007.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "D871F5516B447E2C512CA08BFFE17777793407488A744A14068CB34724504FAD"
+      }
+    },
+    {
+      "source_id": "FS-008",
+      "key": "doc_values",
+      "title": "价值观与文化",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/CXizwk1R2izdpvkHeWLcmEC5nqb",
+      "node_token": "CXizwk1R2izdpvkHeWLcmEC5nqb",
+      "obj_token": "PXPmdXBONogdj0xzJu8cbd25nkg",
+      "revision_id": 4,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-008.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "FABB5BE46137C9547238D35CD1FEE47EEBDBE93C7EBD1C414EF73AB66B5CA876"
+      }
+    },
+    {
+      "source_id": "FS-009",
+      "key": "doc_method",
+      "title": "AI Native方法论",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Bl6jwM2SXi9HIkkHkCEckBVPnHb",
+      "node_token": "Bl6jwM2SXi9HIkkHkCEckBVPnHb",
+      "obj_token": "I1vzd4WBeoCK8UxyiS8cPcvDnXb",
+      "revision_id": 9,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-009.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "2DC64E3E51ACED77C36D05459D5557CAF1A555EF624B43D097EFEFA2583D4D02"
+      }
+    },
+    {
+      "source_id": "FS-010",
+      "key": "doc_company_method",
+      "title": "公司打法-总体打法",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/YOAfwQ82ei79b2kwKXCcggAvnHd",
+      "node_token": "YOAfwQ82ei79b2kwKXCcggAvnHd",
+      "obj_token": "OOHQd2NatoVFxCxTpq3cwLltneb",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-010.json",
+      "md_path": null,
+      "redactions": [
+        "temporary_login_query_parameter"
+      ],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "6CBAEE106AB77DA7484EC931B41D443712B78C0A9C6A55DCDA8FB6DD1AE9A6D9"
+      }
+    },
+    {
+      "source_id": "FS-011",
+      "key": "doc_beikong",
+      "title": "北控水务技术方案对外讲述逐字稿 V1.0 20260518",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/BdCxwnrEsilo8NkbFwCc3Z7iniy",
+      "node_token": "BdCxwnrEsilo8NkbFwCc3Z7iniy",
+      "obj_token": "VJZIdVpmloE2F0x5FRncf7HdnCe",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-011.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-011-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "94A826E147C8465E97F3B3D1F32A90695AEFC947E1C9C995D5B4D8D59E829053",
+        "md_path": "549D886962F640077D50F0CB5C1A072469EF251651ABB1CF1FADC290D79BEAF0"
+      }
+    },
+    {
+      "source_id": "FS-012",
+      "key": "doc_qiaoyin",
+      "title": "爱化身x侨银_企业级智能体落地实践 - 交互演示逐字稿",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/JZXOwKGQgiZDg8kMd5BcV62Knee",
+      "node_token": "JZXOwKGQgiZDg8kMd5BcV62Knee",
+      "obj_token": "S3cMdshNwoUX1hx1eFDcbzQtnlh",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-012.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-012-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "68AD66AF53D7D5FE1848DFBD11942787AE01A34ED421880695450E8DFBD9E291",
+        "md_path": "D5F827FBF0F82BEC06335BCBBC4D4CFEBFE47EAD76CDC826EFECD1E28F48D954"
+      }
+    },
+    {
+      "source_id": "FS-013",
+      "key": "doc_chongqing",
+      "title": "重庆轨道技术方案对外讲述逐字稿 V1.0 20260518",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/AKScwIzy1ioPDekR9QHcNYQknKh",
+      "node_token": "AKScwIzy1ioPDekR9QHcNYQknKh",
+      "obj_token": "Y2RldNGIfoYdLzx6RZFchyANnxY",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-013.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-013-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "9A5BAFF0AEFDA5698E4D5BEEC962F0A7BD9FAD9ADF4378F1A877E4B7ED3F06D4",
+        "md_path": "B695D0829F7D66ACC881A48238A6D1D4CD4DAD5A7FDFE80CCA54E5088E3529FC"
+      }
+    },
+    {
+      "source_id": "FS-014",
+      "key": "doc_faq",
+      "title": "数字广东售前阶段对客代表性问题合集-20260528",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/ANSKwgQS6iKgXqkixgRcWCyKnSg",
+      "node_token": "ANSKwgQS6iKgXqkixgRcWCyKnSg",
+      "obj_token": "J1QldDl53oFBChx4jbucvNvfnMb",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-014.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-014-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "DBE689A51423EA373D6EDE10D36F830CB47624434CFAADAFA8FEA5DDBFD1AA82",
+        "md_path": "67A528333162340D7AB61C7DE7BF4D80908E45B524A67F38A27A90F8FCC471A8"
+      }
+    },
+    {
+      "source_id": "FS-015",
+      "key": "doc_eval",
+      "title": "售前项目评估",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/BwB8wdJXLifd7Qk7m8UcDpMsnFe",
+      "node_token": "BwB8wdJXLifd7Qk7m8UcDpMsnFe",
+      "obj_token": "QW5kdMHKKo5TAtxQz5ycQ7Wvnfp",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "index_card",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-015.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "FEB504301C87C002A0779082B2C51A54085717152212993112987690C26A1A00"
+      }
+    },
+    {
+      "source_id": "FS-016",
+      "key": "doc_native",
+      "title": "AI Native组织",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/ZqHcwk9wtiFPt9kq2V9czLonnLf",
+      "node_token": "ZqHcwk9wtiFPt9kq2V9czLonnLf",
+      "obj_token": "ZW1jdsLEmooxmBx76ysckx1vnxc",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-016.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-016-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "8D922AB19E16DBFFF325CE1A2DC09BDA35A4F04107B971186D7AC62188D6F9EB",
+        "md_path": "EC4AB4679A8497A4F2C37B896FDF7CCE9B3A6C52753210F0EF2251392054C17E"
+      }
+    },
+    {
+      "source_id": "FS-017",
+      "key": "doc_voice",
+      "title": "爱化身语音智能体产品说明",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/QKVuwaHWDiKnCbk5a49cLBpDnng",
+      "node_token": "QKVuwaHWDiKnCbk5a49cLBpDnng",
+      "obj_token": "VpN8dV8lloY6YCxv0XbcSQFPnzd",
+      "revision_id": 1,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-017.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-017-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "6590547F6A666AD2FECDAE36DD7D97066F26536C76BE3837E754F2E05FE33A68",
+        "md_path": "D3E9FF52FBF81E4BFE65442EBDD0BD14F6C8BB3D8FBCA2C430E6891DAF1918C0"
+      }
+    },
+    {
+      "source_id": "FS-018",
+      "key": "doc_travel",
+      "title": "员工差旅管理与费用报销制度（修订）",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/LS3uwnMN1iatOrkpUxAcvc8vn1d",
+      "node_token": "LS3uwnMN1iatOrkpUxAcvc8vn1d",
+      "obj_token": "H77idQ39voeH02xefLNcbeFknmh",
+      "revision_id": 4244,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-018.json",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-018-原文.md",
+      "redactions": [],
+      "media_captured": false,
+      "sha256": {
+        "json_path": "69B6060786BBA26137C2F27DB4BC0EB080059015C8FFF7941A29D4BDC028E7DC",
+        "md_path": "B3796735B68E3DAB2BA0E9F8770C76DF7EFDED3D64E89A03FF99DD2FA4F97FE9"
+      }
+    },
+    {
+      "source_id": "FS-019",
+      "key": "source_strategy",
+      "title": "爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/CSBTwvL0UioIR0k9lV7cjTkUnke",
+      "node_token": "CSBTwvL0UioIR0k9lV7cjTkUnke",
+      "obj_token": "CpKPbL5RRodQjUxIYsbcEQwZnnf",
+      "revision_id": null,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "docx_attachment",
+      "binary_path": "90-原始资料/飞书/2026-09-19/爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-019-原文.md",
+      "extraction": "OOXML paragraphs in document order; tables flattened; layout and images not reviewed",
+      "tracked_insertions": 0,
+      "tracked_deletions": 0,
+      "has_comments": false,
+      "sha256": {
+        "md_path": "74F1BB71D489FD2E05ABA6030AEE3252F1115E8DD24F779574680A4F35953A3C",
+        "binary_path": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501"
+      }
+    },
+    {
+      "source_id": "FS-020",
+      "key": "source_brand",
+      "title": "爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Te5rw8TAKivQOFkuKINcLHctnpe",
+      "node_token": "Te5rw8TAKivQOFkuKINcLHctnpe",
+      "obj_token": "X97jbusJ2ov2xGxC1S3c4Vlbnjh",
+      "revision_id": null,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "docx_attachment",
+      "binary_path": "90-原始资料/飞书/2026-09-19/爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "md_path": "90-原始资料/飞书/2026-09-19/FS-020-原文.md",
+      "extraction": "OOXML paragraphs in document order; tables flattened; layout and images not reviewed",
+      "tracked_insertions": 0,
+      "tracked_deletions": 0,
+      "has_comments": false,
+      "sha256": {
+        "md_path": "E60CB6E8B51A2E423422D9DFF42F3E38C9B43AE566D963A9E471B77CB86D58CC",
+        "binary_path": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723"
+      }
+    }
+  ],
+  "download_failures": [
+    {
+      "source_id": "source_dataos",
+      "title": "DataOS_技术白皮书.pdf",
+      "obj_token": "IgECbi9CBoSfS6xfZV8cQX8rned",
+      "status": "export_permission_denied",
+      "captured_on": "2026-09-19",
+      "result": {
+        "ok": false,
+        "identity": "user",
+        "error": {
+          "type": "authorization",
+          "subtype": "permission_denied",
+          "message": "current identity does not have export permission for this Drive file",
+          "hint": "Direct Drive download is unavailable. To view file content through preview artifacts, try `lark-cli drive +preview --file-token <FILE_TOKEN> --type source_file --output <path>`."
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "source_id": "source_agentos",
+      "title": "AgentOS技术白皮书.pdf",
+      "obj_token": "WUJtbLYwhoBD5mxsLQicqb6cnUc",
+      "status": "export_permission_denied",
+      "captured_on": "2026-09-19",
+      "result": {
+        "ok": false,
+        "identity": "user",
+        "error": {
+          "type": "authorization",
+          "subtype": "permission_denied",
+          "message": "current identity does not have export permission for this Drive file",
+          "hint": "Direct Drive download is unavailable. To view file content through preview artifacts, try `lark-cli drive +preview --file-token <FILE_TOKEN> --type source_file --output <path>`."
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "source_id": "source_workforce",
+      "title": "AgentWorkforce技术白皮书.pdf",
+      "obj_token": "KGodbTjAWoMKMlxu4fMcj7y6nUd",
+      "status": "export_permission_denied",
+      "captured_on": "2026-09-19",
+      "result": {
+        "ok": false,
+        "identity": "user",
+        "error": {
+          "type": "authorization",
+          "subtype": "permission_denied",
+          "message": "current identity does not have export permission for this Drive file",
+          "hint": "Direct Drive download is unavailable. To view file content through preview artifacts, try `lark-cli drive +preview --file-token <FILE_TOKEN> --type source_file --output <path>`."
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    }
+  ]
+}
