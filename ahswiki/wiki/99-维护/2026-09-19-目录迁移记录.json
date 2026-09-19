@@ -1,0 +1,569 @@
+{
+  "phase": "immediately_after_move_before_link_repairs",
+  "plan": [
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\00-导航",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\05-商业模式",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\05-商业模式"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\06-组织与制度",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\06-组织与制度"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\07-AI Native方法论",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\07-AI Native方法论"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\99-维护",
+      "to": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护"
+    },
+    {
+      "from": "F:\\Obsidian Vault\\ahswiki\\90-原始资料",
+      "to": "F:\\Obsidian Vault\\ahswiki\\raw"
+    }
+  ],
+  "files": [
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\.DS_Store",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\.DS_Store",
+      "before_sha256": "D65165279105CA6773180500688DF4BDC69A2C7B771752F0A46EF120B7FD8EC3",
+      "move_sha256": "D65165279105CA6773180500688DF4BDC69A2C7B771752F0A46EF120B7FD8EC3"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\AGENTS.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\AGENTS.md",
+      "before_sha256": "B604E5B3A7B8203669A3460A4518896578A5B83F3854B632A3E92E0F12DDB7C9",
+      "move_sha256": "B604E5B3A7B8203669A3460A4518896578A5B83F3854B632A3E92E0F12DDB7C9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\00-导航\\来源索引.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\来源索引.md",
+      "before_sha256": "0D6CD837FDE4C288845D45DB2BAA6438FD6EDD7411294D771461FE8298394D08",
+      "move_sha256": "0D6CD837FDE4C288845D45DB2BAA6438FD6EDD7411294D771461FE8298394D08"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\00-导航\\INDEX.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\INDEX.md",
+      "before_sha256": "B97B3D60EBF951BB0906F4ACB142EA7989C93F68DBDC50C19A50416A0204748B",
+      "move_sha256": "B97B3D60EBF951BB0906F4ACB142EA7989C93F68DBDC50C19A50416A0204748B"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\00-导航\\LLM Wiki 使用与结构.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\LLM Wiki 使用与结构.md",
+      "before_sha256": "B54A6AB710F531B3D8006A4C6BC9AEB203849337EA2A6B70C18AA12182DEC2C9",
+      "move_sha256": "B54A6AB710F531B3D8006A4C6BC9AEB203849337EA2A6B70C18AA12182DEC2C9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\00-导航\\MAP.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\MAP.md",
+      "before_sha256": "439CBC2F505EBBED283A1D5093A07D24B1340538DDBA50FB00373713C0EF9361",
+      "move_sha256": "439CBC2F505EBBED283A1D5093A07D24B1340538DDBA50FB00373713C0EF9361"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略\\爱化身公司概况.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略\\爱化身公司概况.md",
+      "before_sha256": "3F4A8A0341B53B12F8831D0387772044340498C5D2185430915ECD98EDB9284C",
+      "move_sha256": "3F4A8A0341B53B12F8831D0387772044340498C5D2185430915ECD98EDB9284C"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略\\北极星指标与接管深度.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略\\北极星指标与接管深度.md",
+      "before_sha256": "6F7DE40549BC7FA716B01FA565429D0B86A8A83CB6C150F30E998F1EB07F50C9",
+      "move_sha256": "6F7DE40549BC7FA716B01FA565429D0B86A8A83CB6C150F30E998F1EB07F50C9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略\\企业级AI对客战略总纲.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略\\企业级AI对客战略总纲.md",
+      "before_sha256": "4BAFCAB68FA27E701319F3888797E31BFEFF97373FB09258FCB9667F7A7904C8",
+      "move_sha256": "4BAFCAB68FA27E701319F3888797E31BFEFF97373FB09258FCB9667F7A7904C8"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略\\三项核心立论与Workshop.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略\\三项核心立论与Workshop.md",
+      "before_sha256": "2318C6E9D8D25D9F662253288E225FBD424D0D62D2B8DFE41E51BEF6C0E5D00D",
+      "move_sha256": "2318C6E9D8D25D9F662253288E225FBD424D0D62D2B8DFE41E51BEF6C0E5D00D"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\01-公司与战略\\终端客户画像与行业选择.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\01-公司与战略\\终端客户画像与行业选择.md",
+      "before_sha256": "16A3C26177C07984B81A0D674121B07A1D25062F94EC56B901AF1D69D0DE4EBF",
+      "move_sha256": "16A3C26177C07984B81A0D674121B07A1D25062F94EC56B901AF1D69D0DE4EBF"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\00-产品总览\\三OS分层协同.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\00-产品总览\\三OS分层协同.md",
+      "before_sha256": "7500751FDF7933312491B574418F13AEF52517E813F0AF3CD5074806FD974BF4",
+      "move_sha256": "7500751FDF7933312491B574418F13AEF52517E813F0AF3CD5074806FD974BF4"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\00-产品总览\\Agentrix三层架构.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\00-产品总览\\Agentrix三层架构.md",
+      "before_sha256": "3F02FDF52322CFE1E94748458E6F0492433B65318F33ABDCE8324EBFB15AB54A",
+      "move_sha256": "3F02FDF52322CFE1E94748458E6F0492433B65318F33ABDCE8324EBFB15AB54A"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\本体路线选型逻辑.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\本体路线选型逻辑.md",
+      "before_sha256": "386DDA0AC06372A7AE02C865BFBB6D2D973A5C0BEFDDC7E620C5833707B7C570",
+      "move_sha256": "386DDA0AC06372A7AE02C865BFBB6D2D973A5C0BEFDDC7E620C5833707B7C570"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\本体论三元组建模.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\本体论三元组建模.md",
+      "before_sha256": "B9117984501BC54DB2E067616A84B7087CAECC3447D1BABAE1379A5B1FA34510",
+      "move_sha256": "B9117984501BC54DB2E067616A84B7087CAECC3447D1BABAE1379A5B1FA34510"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\本体四张核心元数据表.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\本体四张核心元数据表.md",
+      "before_sha256": "060869466551C303F1090219895ECF7A96436E07731DCC771A4978E405D0C1A1",
+      "move_sha256": "060869466551C303F1090219895ECF7A96436E07731DCC771A4978E405D0C1A1"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\地球online时空数据架构.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\地球online时空数据架构.md",
+      "before_sha256": "F48756B1AC1D219F0A945C2AE675DBCABA58F2B3AE3EFA65BFF1B804D091B0D8",
+      "move_sha256": "F48756B1AC1D219F0A945C2AE675DBCABA58F2B3AE3EFA65BFF1B804D091B0D8"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\动作建模与Agent操作协议.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\动作建模与Agent操作协议.md",
+      "before_sha256": "E5D916A770F06911389B1FE77D3BB2A15179356AD69EA129553B473F4F382601",
+      "move_sha256": "E5D916A770F06911389B1FE77D3BB2A15179356AD69EA129553B473F4F382601"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\字段映射与上下文工程.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\字段映射与上下文工程.md",
+      "before_sha256": "B6EFCF061D5394AE9B75C95573A1791C63E6D8C66636C198FBBDA7A48320B41A",
+      "move_sha256": "B6EFCF061D5394AE9B75C95573A1791C63E6D8C66636C198FBBDA7A48320B41A"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\DataOS八层技术架构.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\DataOS八层技术架构.md",
+      "before_sha256": "C4825D6E24F6F57B2FE8942D98FA925894ECFECE299EA1F671FC5F6A4F4EDA9F",
+      "move_sha256": "C4825D6E24F6F57B2FE8942D98FA925894ECFECE299EA1F671FC5F6A4F4EDA9F"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\DataOS产品定位与业务架构.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\DataOS产品定位与业务架构.md",
+      "before_sha256": "E58814649DC286D95D5D12DF09033AD50782353FC270E0BA3F1226AD1D36C837",
+      "move_sha256": "E58814649DC286D95D5D12DF09033AD50782353FC270E0BA3F1226AD1D36C837"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\DataOS功能模块.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\DataOS功能模块.md",
+      "before_sha256": "BBFE0A01AE93B92D1C95B163EC833DD2F916C21CED111DBA66322C1B17FE1543",
+      "move_sha256": "BBFE0A01AE93B92D1C95B163EC833DD2F916C21CED111DBA66322C1B17FE1543"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\DataOS平台界面实录.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\DataOS平台界面实录.md",
+      "before_sha256": "AEEC4461781670106563BE2D9A111DE3889A6DD547EDB4C7D19EC39896A5239B",
+      "move_sha256": "AEEC4461781670106563BE2D9A111DE3889A6DD547EDB4C7D19EC39896A5239B"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\01-DataOS\\DataOS实施口径与模型选型.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\01-DataOS\\DataOS实施口径与模型选型.md",
+      "before_sha256": "23E754C841CFD91A7DA8BCF1C6BA805469286F2D154557E1B0EFC85F951B26D9",
+      "move_sha256": "23E754C841CFD91A7DA8BCF1C6BA805469286F2D154557E1B0EFC85F951B26D9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\02-AgentOS\\AgentOS产品定位.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\02-AgentOS\\AgentOS产品定位.md",
+      "before_sha256": "F7F9E069C4F1CE36E842A792E4812F9F212F010DDC84B2E66AD9EDC708CA16F1",
+      "move_sha256": "F7F9E069C4F1CE36E842A792E4812F9F212F010DDC84B2E66AD9EDC708CA16F1"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\02-AgentOS\\AgentOS治理与AgentOps.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\02-AgentOS\\AgentOS治理与AgentOps.md",
+      "before_sha256": "6950BE32EEAFA5886075A1744F979340EB47E46B73EEFD7D2BD4A40B9A4D9B31",
+      "move_sha256": "6950BE32EEAFA5886075A1744F979340EB47E46B73EEFD7D2BD4A40B9A4D9B31"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\02-AgentOS\\AgentOS智能体对象模型.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\02-AgentOS\\AgentOS智能体对象模型.md",
+      "before_sha256": "0FE749506B8241B96AFB07B24A2079311D2B61A392546D8CAF445D12BBAE6BE9",
+      "move_sha256": "0FE749506B8241B96AFB07B24A2079311D2B61A392546D8CAF445D12BBAE6BE9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\03-AgentWorkforce\\数字员工建模.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\03-AgentWorkforce\\数字员工建模.md",
+      "before_sha256": "8D4B5D59978CAC169C539B1307DB3AA00BDB95DEB4BD0B4E270C01E7CBCED95B",
+      "move_sha256": "8D4B5D59978CAC169C539B1307DB3AA00BDB95DEB4BD0B4E270C01E7CBCED95B"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\03-AgentWorkforce\\AgentWorkforce产品定位.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\03-AgentWorkforce\\AgentWorkforce产品定位.md",
+      "before_sha256": "AA44CE0E42257CB515A816D3791A77229875BDE5BABBC8FE91552C3996D932E1",
+      "move_sha256": "AA44CE0E42257CB515A816D3791A77229875BDE5BABBC8FE91552C3996D932E1"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\04-语音与数字人\\数字分身与数字人生.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\04-语音与数字人\\数字分身与数字人生.md",
+      "before_sha256": "9637FA5AD91DF6017DEDE2C8813D9267216048AECEA52A1AFAF10C6E3303E478",
+      "move_sha256": "9637FA5AD91DF6017DEDE2C8813D9267216048AECEA52A1AFAF10C6E3303E478"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\04-语音与数字人\\语音智能体配置与电话业务流程.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\04-语音与数字人\\语音智能体配置与电话业务流程.md",
+      "before_sha256": "EABAFF616FAD69D4C4F4120F31739D8F8BBA2210CFEB5B8735D3936CB6947511",
+      "move_sha256": "EABAFF616FAD69D4C4F4120F31739D8F8BBA2210CFEB5B8735D3936CB6947511"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\02-产品与技术\\04-语音与数字人\\VoiceAgent语音智能体.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\02-产品与技术\\04-语音与数字人\\VoiceAgent语音智能体.md",
+      "before_sha256": "F3C4F6E6384A58B7BC46589472BBD8A17EBDF4AD2E81AAEF62DF90FE3BA902B2",
+      "move_sha256": "F3C4F6E6384A58B7BC46589472BBD8A17EBDF4AD2E81AAEF62DF90FE3BA902B2"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\48小时行业文献蒸馏法.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\48小时行业文献蒸馏法.md",
+      "before_sha256": "EDDB39288DFA95EFB4309DBB404042898723BF926AEF88E5D3A02294FFEBB052",
+      "move_sha256": "EDDB39288DFA95EFB4309DBB404042898723BF926AEF88E5D3A02294FFEBB052"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\爱化身对客六条硬规则.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\爱化身对客六条硬规则.md",
+      "before_sha256": "BEF2C71D1BAC8193DD7AD440AD6EADF70C3E922C1A5832B5CD8978E73CA280E0",
+      "move_sha256": "BEF2C71D1BAC8193DD7AD440AD6EADF70C3E922C1A5832B5CD8978E73CA280E0"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\产品共建与项目交付双模式.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\产品共建与项目交付双模式.md",
+      "before_sha256": "B2D37CBB14975EB6674674FD66C80D747E9967E6E7BA388AA6B2C34217AFA085",
+      "move_sha256": "B2D37CBB14975EB6674674FD66C80D747E9967E6E7BA388AA6B2C34217AFA085"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\四阶段交付路线.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\四阶段交付路线.md",
+      "before_sha256": "E8F2B78031C84C07CD11F0AC9B756A036368290217EA920CD0FAF83032AEE0C1",
+      "move_sha256": "E8F2B78031C84C07CD11F0AC9B756A036368290217EA920CD0FAF83032AEE0C1"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\DataOS售前问答与能力边界.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\DataOS售前问答与能力边界.md",
+      "before_sha256": "6715E35C5BCBCBD31F7949D967C05047F6E1C536603948758B361F72F22D01B7",
+      "move_sha256": "6715E35C5BCBCBD31F7949D967C05047F6E1C536603948758B361F72F22D01B7"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\03-售前与交付\\FDE前置交付方法论.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\03-售前与交付\\FDE前置交付方法论.md",
+      "before_sha256": "985B9C555EC03A47A324616BD194D45DE1373EBEF75DB4DDDCC02D38AACF0666",
+      "move_sha256": "985B9C555EC03A47A324616BD194D45DE1373EBEF75DB4DDDCC02D38AACF0666"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\北控水务污水生化调控方案.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\北控水务污水生化调控方案.md",
+      "before_sha256": "027B8F2861DBDEABB90C459EDD4DF3BA9576527414404FED5F132C4AE6A269DB",
+      "move_sha256": "027B8F2861DBDEABB90C459EDD4DF3BA9576527414404FED5F132C4AE6A269DB"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\产品共建三项目.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\产品共建三项目.md",
+      "before_sha256": "1FD690FC3C606C914440C5A30761476BD30FD2A5017241AF043565DB6F8E92C6",
+      "move_sha256": "1FD690FC3C606C914440C5A30761476BD30FD2A5017241AF043565DB6F8E92C6"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\重庆轨道数智化方案（2026-05）.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\重庆轨道数智化方案（2026-05）.md",
+      "before_sha256": "CC3F259A3703C8877AB974A1DFE3F3F48AF11B6C726C6EC8B706FE668C9B7623",
+      "move_sha256": "CC3F259A3703C8877AB974A1DFE3F3F48AF11B6C726C6EC8B706FE668C9B7623"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\侨银城市服务任务闭环.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\侨银城市服务任务闭环.md",
+      "before_sha256": "607114033D7BDC3C843F870A87E4B6150641B9501A6A71047D89A3A1E1EECE58",
+      "move_sha256": "607114033D7BDC3C843F870A87E4B6150641B9501A6A71047D89A3A1E1EECE58"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\Agentrix行业案例集.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\Agentrix行业案例集.md",
+      "before_sha256": "9824FDF1D601EEEA7C0667A04FB696283B980AAE694C9E69141EB4CE4AF69415",
+      "move_sha256": "9824FDF1D601EEEA7C0667A04FB696283B980AAE694C9E69141EB4CE4AF69415"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\04-市场与案例\\DataOS竞品对比分析.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\04-市场与案例\\DataOS竞品对比分析.md",
+      "before_sha256": "871CD85AADB65DB10B686DACB43C647A324A1AABE31D4F0448E89EAA3EACB3EC",
+      "move_sha256": "871CD85AADB65DB10B686DACB43C647A324A1AABE31D4F0448E89EAA3EACB3EC"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\05-商业模式\\商业模式与渠道体系.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\05-商业模式\\商业模式与渠道体系.md",
+      "before_sha256": "5C28C21C55A22F248EE4288F3FBE2FA03002FB1DEFB54C2AE5C9EA429949A262",
+      "move_sha256": "5C28C21C55A22F248EE4288F3FBE2FA03002FB1DEFB54C2AE5C9EA429949A262"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\05-商业模式\\DataOS报价与交付模式.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\05-商业模式\\DataOS报价与交付模式.md",
+      "before_sha256": "E89A42160948392B86A9C574D4CA2299685536D92D2E8D9FBAE9D1A6AB3FD4C6",
+      "move_sha256": "E89A42160948392B86A9C574D4CA2299685536D92D2E8D9FBAE9D1A6AB3FD4C6"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\06-组织与制度\\差旅申请与报销规则.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\06-组织与制度\\差旅申请与报销规则.md",
+      "before_sha256": "C200599E41C63DF211730DE16FBE7B45ACDB2F4F54F47B4EF6633DAB4A2DEDC3",
+      "move_sha256": "C200599E41C63DF211730DE16FBE7B45ACDB2F4F54F47B4EF6633DAB4A2DEDC3"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\06-组织与制度\\对外发声与信息使用边界.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\06-组织与制度\\对外发声与信息使用边界.md",
+      "before_sha256": "A8982CD7937F6B0E197E096AE0B93122A280D15FFBEC0638CB000AA5C0158458",
+      "move_sha256": "A8982CD7937F6B0E197E096AE0B93122A280D15FFBEC0638CB000AA5C0158458"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\07-AI Native方法论\\AI Native组织与闭环协作.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\07-AI Native方法论\\AI Native组织与闭环协作.md",
+      "before_sha256": "4332336C385F2F1867D6F9DAAC6379AC3643030B764114C5AF52BC5FAAEBF710",
+      "move_sha256": "4332336C385F2F1867D6F9DAAC6379AC3643030B764114C5AF52BC5FAAEBF710"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "before_sha256": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723",
+      "move_sha256": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "before_sha256": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501",
+      "move_sha256": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-011-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-011-原文.md",
+      "before_sha256": "549D886962F640077D50F0CB5C1A072469EF251651ABB1CF1FADC290D79BEAF0",
+      "move_sha256": "549D886962F640077D50F0CB5C1A072469EF251651ABB1CF1FADC290D79BEAF0"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-012-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-012-原文.md",
+      "before_sha256": "D5F827FBF0F82BEC06335BCBBC4D4CFEBFE47EAD76CDC826EFECD1E28F48D954",
+      "move_sha256": "D5F827FBF0F82BEC06335BCBBC4D4CFEBFE47EAD76CDC826EFECD1E28F48D954"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-013-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-013-原文.md",
+      "before_sha256": "B695D0829F7D66ACC881A48238A6D1D4CD4DAD5A7FDFE80CCA54E5088E3529FC",
+      "move_sha256": "B695D0829F7D66ACC881A48238A6D1D4CD4DAD5A7FDFE80CCA54E5088E3529FC"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-014-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-014-原文.md",
+      "before_sha256": "67A528333162340D7AB61C7DE7BF4D80908E45B524A67F38A27A90F8FCC471A8",
+      "move_sha256": "67A528333162340D7AB61C7DE7BF4D80908E45B524A67F38A27A90F8FCC471A8"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-016-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-016-原文.md",
+      "before_sha256": "EC4AB4679A8497A4F2C37B896FDF7CCE9B3A6C52753210F0EF2251392054C17E",
+      "move_sha256": "EC4AB4679A8497A4F2C37B896FDF7CCE9B3A6C52753210F0EF2251392054C17E"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-017-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-017-原文.md",
+      "before_sha256": "D3E9FF52FBF81E4BFE65442EBDD0BD14F6C8BB3D8FBCA2C430E6891DAF1918C0",
+      "move_sha256": "D3E9FF52FBF81E4BFE65442EBDD0BD14F6C8BB3D8FBCA2C430E6891DAF1918C0"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-018-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-018-原文.md",
+      "before_sha256": "B3796735B68E3DAB2BA0E9F8770C76DF7EFDED3D64E89A03FF99DD2FA4F97FE9",
+      "move_sha256": "B3796735B68E3DAB2BA0E9F8770C76DF7EFDED3D64E89A03FF99DD2FA4F97FE9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-019-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-019-原文.md",
+      "before_sha256": "74F1BB71D489FD2E05ABA6030AEE3252F1115E8DD24F779574680A4F35953A3C",
+      "move_sha256": "74F1BB71D489FD2E05ABA6030AEE3252F1115E8DD24F779574680A4F35953A3C"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\FS-020-原文.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\FS-020-原文.md",
+      "before_sha256": "E60CB6E8B51A2E423422D9DFF42F3E38C9B43AE566D963A9E471B77CB86D58CC",
+      "move_sha256": "E60CB6E8B51A2E423422D9DFF42F3E38C9B43AE566D963A9E471B77CB86D58CC"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-001.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-001.json",
+      "before_sha256": "E696502B4AB190467DD71AEBA45A83A44209DBC68374E921E239BA5C39C977EC",
+      "move_sha256": "E696502B4AB190467DD71AEBA45A83A44209DBC68374E921E239BA5C39C977EC"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-002.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-002.json",
+      "before_sha256": "F573112FF7BC24038DB42589B161AA996902E9840BE9D6769846F90C548CA6E4",
+      "move_sha256": "F573112FF7BC24038DB42589B161AA996902E9840BE9D6769846F90C548CA6E4"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-003.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-003.json",
+      "before_sha256": "C894CC185F5E27C581CA46EC4BDAF1DC04B3F77033105F8644C56AA8E5571AD8",
+      "move_sha256": "C894CC185F5E27C581CA46EC4BDAF1DC04B3F77033105F8644C56AA8E5571AD8"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-004.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-004.json",
+      "before_sha256": "F29E5AF50A7B9434A61319AAA833EDE2E330E0747EC4216F5D0DA89E0DCD40FE",
+      "move_sha256": "F29E5AF50A7B9434A61319AAA833EDE2E330E0747EC4216F5D0DA89E0DCD40FE"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-005.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-005.json",
+      "before_sha256": "19705680BD8FD5DDE6CE056135DBD1455A0521ACBB329538A945FD8D7596ACFA",
+      "move_sha256": "19705680BD8FD5DDE6CE056135DBD1455A0521ACBB329538A945FD8D7596ACFA"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-006.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-006.json",
+      "before_sha256": "18BA01F33D41D80341350DDC2EE57D2A4F3358CD20616BF82B0284ECFBA10E5C",
+      "move_sha256": "18BA01F33D41D80341350DDC2EE57D2A4F3358CD20616BF82B0284ECFBA10E5C"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-007.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-007.json",
+      "before_sha256": "D871F5516B447E2C512CA08BFFE17777793407488A744A14068CB34724504FAD",
+      "move_sha256": "D871F5516B447E2C512CA08BFFE17777793407488A744A14068CB34724504FAD"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-008.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-008.json",
+      "before_sha256": "FABB5BE46137C9547238D35CD1FEE47EEBDBE93C7EBD1C414EF73AB66B5CA876",
+      "move_sha256": "FABB5BE46137C9547238D35CD1FEE47EEBDBE93C7EBD1C414EF73AB66B5CA876"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-009.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-009.json",
+      "before_sha256": "2DC64E3E51ACED77C36D05459D5557CAF1A555EF624B43D097EFEFA2583D4D02",
+      "move_sha256": "2DC64E3E51ACED77C36D05459D5557CAF1A555EF624B43D097EFEFA2583D4D02"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-010.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-010.json",
+      "before_sha256": "6CBAEE106AB77DA7484EC931B41D443712B78C0A9C6A55DCDA8FB6DD1AE9A6D9",
+      "move_sha256": "6CBAEE106AB77DA7484EC931B41D443712B78C0A9C6A55DCDA8FB6DD1AE9A6D9"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-011.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-011.json",
+      "before_sha256": "94A826E147C8465E97F3B3D1F32A90695AEFC947E1C9C995D5B4D8D59E829053",
+      "move_sha256": "94A826E147C8465E97F3B3D1F32A90695AEFC947E1C9C995D5B4D8D59E829053"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-012.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-012.json",
+      "before_sha256": "68AD66AF53D7D5FE1848DFBD11942787AE01A34ED421880695450E8DFBD9E291",
+      "move_sha256": "68AD66AF53D7D5FE1848DFBD11942787AE01A34ED421880695450E8DFBD9E291"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-013.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-013.json",
+      "before_sha256": "9A5BAFF0AEFDA5698E4D5BEEC962F0A7BD9FAD9ADF4378F1A877E4B7ED3F06D4",
+      "move_sha256": "9A5BAFF0AEFDA5698E4D5BEEC962F0A7BD9FAD9ADF4378F1A877E4B7ED3F06D4"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-014.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-014.json",
+      "before_sha256": "DBE689A51423EA373D6EDE10D36F830CB47624434CFAADAFA8FEA5DDBFD1AA82",
+      "move_sha256": "DBE689A51423EA373D6EDE10D36F830CB47624434CFAADAFA8FEA5DDBFD1AA82"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-015.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-015.json",
+      "before_sha256": "FEB504301C87C002A0779082B2C51A54085717152212993112987690C26A1A00",
+      "move_sha256": "FEB504301C87C002A0779082B2C51A54085717152212993112987690C26A1A00"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-016.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-016.json",
+      "before_sha256": "8D922AB19E16DBFFF325CE1A2DC09BDA35A4F04107B971186D7AC62188D6F9EB",
+      "move_sha256": "8D922AB19E16DBFFF325CE1A2DC09BDA35A4F04107B971186D7AC62188D6F9EB"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-017.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-017.json",
+      "before_sha256": "6590547F6A666AD2FECDAE36DD7D97066F26536C76BE3837E754F2E05FE33A68",
+      "move_sha256": "6590547F6A666AD2FECDAE36DD7D97066F26536C76BE3837E754F2E05FE33A68"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\90-原始资料\\飞书\\2026-09-19\\抓取记录\\FS-018.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\raw\\飞书\\2026-09-19\\抓取记录\\FS-018.json",
+      "before_sha256": "69B6060786BBA26137C2F27DB4BC0EB080059015C8FFF7941A29D4BDC028E7DC",
+      "move_sha256": "69B6060786BBA26137C2F27DB4BC0EB080059015C8FFF7941A29D4BDC028E7DC"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\2026-09-19-飞书目录盘点.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\2026-09-19-飞书目录盘点.json",
+      "before_sha256": "FFDD4BBADB83D27B860A8D38D2D24C101BC482B27E0ABBC5056C818A356A2869",
+      "move_sha256": "FFDD4BBADB83D27B860A8D38D2D24C101BC482B27E0ABBC5056C818A356A2869"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\2026-09-19-校验报告.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\2026-09-19-校验报告.json",
+      "before_sha256": "7C07A23B8DC17D1A998343728C56AB675547B4114769B8C3CC0DBD99DF996821",
+      "move_sha256": "7C07A23B8DC17D1A998343728C56AB675547B4114769B8C3CC0DBD99DF996821"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\2026-09-19-整理前校验.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\2026-09-19-整理前校验.json",
+      "before_sha256": "7D8C4B9FC652E8C3B780445DB62F606984F48C4023BDCB1F6E28ADACA7D58354",
+      "move_sha256": "7D8C4B9FC652E8C3B780445DB62F606984F48C4023BDCB1F6E28ADACA7D58354"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\2026-09-19飞书知识盘点.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\2026-09-19飞书知识盘点.md",
+      "before_sha256": "201E2AEE26704561F39AE6A6C7BFDEF9E42558211FC1C4E538BB76C9FA7A6B53",
+      "move_sha256": "201E2AEE26704561F39AE6A6C7BFDEF9E42558211FC1C4E538BB76C9FA7A6B53"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\待核实与冲突.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\待核实与冲突.md",
+      "before_sha256": "9B971B57496DC5CC27D3E05A4AC2D54073F092B6E969271776BA5F33F5478CEA",
+      "move_sha256": "9B971B57496DC5CC27D3E05A4AC2D54073F092B6E969271776BA5F33F5478CEA"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\更新日志.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\更新日志.md",
+      "before_sha256": "30B6A37660594E0B25D7E0521CFB15D7C741086ACB57EA90103A79DCB50A82F6",
+      "move_sha256": "30B6A37660594E0B25D7E0521CFB15D7C741086ACB57EA90103A79DCB50A82F6"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\检查知识库.ps1",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\检查知识库.ps1",
+      "before_sha256": "774FE502CBD74D733CCC5D7704C95092D7D9AA9AB5B0D8CFBC650E4D6E18CC40",
+      "move_sha256": "774FE502CBD74D733CCC5D7704C95092D7D9AA9AB5B0D8CFBC650E4D6E18CC40"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\知识页模板.md",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\知识页模板.md",
+      "before_sha256": "6219C29353E8258991640A8863C46B07782FA9C53810D702F031F5230C6418F4",
+      "move_sha256": "6219C29353E8258991640A8863C46B07782FA9C53810D702F031F5230C6418F4"
+    },
+    {
+      "old_path": "F:\\Obsidian Vault\\ahswiki\\99-维护\\source-manifest.json",
+      "new_path": "F:\\Obsidian Vault\\ahswiki\\wiki\\99-维护\\source-manifest.json",
+      "before_sha256": "E8DB912DCD2FA656D2AA04FABB239CC7F10962461A4DB484AFBD2A7B50C8B4F7",
+      "move_sha256": "E8DB912DCD2FA656D2AA04FABB239CC7F10962461A4DB484AFBD2A7B50C8B4F7"
+    }
+  ]
+}

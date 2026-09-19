@@ -1,15 +1,15 @@
-param([string]$WikiRoot = (Split-Path -Parent $PSScriptRoot))
+param([string]$WikiRoot = (Split-Path -Parent (Split-Path -Parent $PSScriptRoot)))
 
 $ErrorActionPreference = 'Stop'
 $WikiRoot = (Resolve-Path -LiteralPath $WikiRoot).Path
 $vaultRoot = Split-Path -Parent $WikiRoot
 $allFiles = @(Get-ChildItem -LiteralPath $vaultRoot -Recurse -File -Force | Where-Object { $_.FullName -notmatch '\\(\.git|\.obsidian|\.trash)\\' })
 $wikiMd = @($allFiles | Where-Object { $_.FullName.StartsWith($WikiRoot + '\') -and $_.Extension -eq '.md' })
-$curated = @($wikiMd | Where-Object { $_.FullName -notmatch '\\90-原始资料\\' })
-$business = @($wikiMd | Where-Object { $_.FullName.Substring($WikiRoot.Length + 1) -match '^0[1-7]-' })
-$indexText = Get-Content -LiteralPath (Join-Path $WikiRoot '00-导航\INDEX.md') -Raw
-$manifest = Get-Content -LiteralPath (Join-Path $WikiRoot '99-维护\source-manifest.json') -Raw | ConvertFrom-Json
-$baseline = Get-Content -LiteralPath (Join-Path $WikiRoot '99-维护\2026-09-19-整理前校验.json') -Raw | ConvertFrom-Json
+$curated = @($wikiMd | Where-Object { $_.FullName -notmatch '\\raw\\' })
+$business = @($wikiMd | Where-Object { $_.FullName.Substring($WikiRoot.Length + 1) -match '^wiki\\0[1-7]-' })
+$indexText = Get-Content -LiteralPath (Join-Path $WikiRoot 'wiki\00-导航\INDEX.md') -Raw
+$manifest = Get-Content -LiteralPath (Join-Path $WikiRoot 'wiki\99-维护\source-manifest.json') -Raw | ConvertFrom-Json
+$baseline = Get-Content -LiteralPath (Join-Path $WikiRoot 'wiki\99-维护\2026-09-19-整理前校验.json') -Raw | ConvertFrom-Json
 $problems = [System.Collections.Generic.List[object]]::new()
 $linkCount = 0
 
@@ -43,6 +43,11 @@ foreach ($file in $curated) {
 $originalBusinessUnchanged = 0
 $navigationChanged = @()
 foreach ($old in $baseline) {
+    $originalPath = $old.path
+    if (!(Test-Path -LiteralPath $old.path) -and $old.path.StartsWith($WikiRoot + '\')) {
+        $relativeOld = $old.path.Substring($WikiRoot.Length + 1)
+        $old.path = Join-Path $WikiRoot ('wiki\' + $relativeOld)
+    }
     $same = (Test-Path -LiteralPath $old.path) -and ((Get-FileHash -LiteralPath $old.path -Algorithm SHA256).Hash -eq $old.sha256)
     if ($old.path -match '\\00-导航\\') { if (!$same) { $navigationChanged += $old.path }; continue }
     if ($same) { $originalBusinessUnchanged++ } else { $problems.Add([pscustomobject]@{kind='original_business_changed';file=$old.path}) }

@@ -1,0 +1,40 @@
+{
+  "capture": {
+    "source_id": "FS-022",
+    "key": "supplement_IzW7dpmSJoJD1JxrxobcJMBxnDc",
+    "title": "组织架构",
+    "space_id": "7649949026715978701",
+    "source_url": "https://xqmqf98k8t.feishu.cn/wiki/SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+    "node_token": "SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+    "obj_token": "IzW7dpmSJoJD1JxrxobcJMBxnDc",
+    "revision_id": 3,
+    "captured_on": "2026-09-19",
+    "source_updated_on": null,
+    "kind": "empty_placeholder",
+    "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-022.json",
+    "md_path": null,
+    "redactions": [],
+    "media_captured": false,
+    "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+  },
+  "response": {
+    "ok": true,
+    "identity": "user",
+    "data": {
+      "document": {
+        "content": "# 组织架构",
+        "document_id": "IzW7dpmSJoJD1JxrxobcJMBxnDc",
+        "revision_id": 3
+      }
+    },
+    "_notice": {
+      "update": {
+        "command": "lark-cli update",
+        "current": "1.0.95",
+        "latest": "1.0.96",
+        "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+      }
+    }
+  }
+}
+

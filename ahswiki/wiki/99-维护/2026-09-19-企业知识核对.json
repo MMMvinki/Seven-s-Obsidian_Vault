@@ -1,0 +1,450 @@
+{
+  "captured_on": "2026-09-19",
+  "spaces": [
+    {
+      "description": "爱化身内部知识共享平台",
+      "name": "AHS企业知识库",
+      "open_sharing": "closed",
+      "space_id": "7649949026715978701",
+      "space_type": "team",
+      "visibility": "private"
+    },
+    {
+      "description": "技术知识分享中心",
+      "name": "Wiki wiki",
+      "open_sharing": "closed",
+      "space_id": "7293098885122621443",
+      "space_type": "team",
+      "visibility": "public"
+    }
+  ],
+  "checked_documents": [
+    {
+      "space_id": "7649949026715978701",
+      "title": "员工手册",
+      "node_token": "EyKTwxR1Hi47VXkK7Z5cDXA9nUf",
+      "obj_token": "THIqdm5iJoVmVKxWUtEcljWQnfg",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/EyKTwxR1Hi47VXkK7Z5cDXA9nUf",
+      "read_ok": true,
+      "revision_id": 7,
+      "content_character_count": 6,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "组织架构",
+      "node_token": "SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+      "obj_token": "IzW7dpmSJoJD1JxrxobcJMBxnDc",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+      "read_ok": true,
+      "revision_id": 3,
+      "content_character_count": 6,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "财务",
+      "node_token": "VHS9wnenGidegTkgsHZctQIRnkd",
+      "obj_token": "MPlPdogRmow0m4xtHBNcrGgxn2g",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/VHS9wnenGidegTkgsHZctQIRnkd",
+      "read_ok": true,
+      "revision_id": 2,
+      "content_character_count": 4,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "入职与融入",
+      "node_token": "JqOFwk76TiSh60kZFykcgpthn3b",
+      "obj_token": "R22SdHl52ouuouxzLWkc9f0bnPh",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/JqOFwk76TiSh60kZFykcgpthn3b",
+      "read_ok": true,
+      "revision_id": 3,
+      "content_character_count": 7,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "培训与发展",
+      "node_token": "FyeawwDsKiDDZlkBEPccNZndnjg",
+      "obj_token": "NdbFd2c9aoSISlxOWkVc4Nzon0e",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/FyeawwDsKiDDZlkBEPccNZndnjg",
+      "read_ok": true,
+      "revision_id": 5,
+      "content_character_count": 7,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "爱化身员工差旅和费用报销流程",
+      "node_token": "VJ4twBrUCiuROOk061Ncuk61nag",
+      "obj_token": "Yfczd53SDoH7JaxGs1dcyGwZnae",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/VJ4twBrUCiuROOk061Ncuk61nag",
+      "read_ok": true,
+      "revision_id": 3004,
+      "content_character_count": 6180,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "销售与客户",
+      "node_token": "PTxowqN0iimbBck5YBmcDuffnig",
+      "obj_token": "HHKvdZatqoBCw7xsS2Vcpjg3nrc",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/PTxowqN0iimbBck5YBmcDuffnig",
+      "read_ok": true,
+      "revision_id": 4,
+      "content_character_count": 7,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7649949026715978701",
+      "title": "解决方案",
+      "node_token": "LLBxwcqYtiv708kNXTzc5a2qnGc",
+      "obj_token": "ZJ5ddWigfoLWMkxhedlcJjYintK",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/LLBxwcqYtiv708kNXTzc5a2qnGc",
+      "read_ok": true,
+      "revision_id": 2,
+      "content_character_count": 6,
+      "body_persisted": true,
+      "technical_sample_not_imported": false
+    },
+    {
+      "space_id": "7293098885122621443",
+      "title": "欢迎来到爱化身知识库",
+      "node_token": "Nrk4wlkMsiS2pVk6WSBcy442n7f",
+      "obj_token": "HJwjdplbeof6rzx2Vg6cbmqTn1e",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/Nrk4wlkMsiS2pVk6WSBcy442n7f",
+      "read_ok": true,
+      "revision_id": 74,
+      "content_character_count": 493,
+      "body_persisted": false,
+      "technical_sample_not_imported": true
+    },
+    {
+      "space_id": "7293098885122621443",
+      "title": "GAG Techstack",
+      "node_token": "ItA5w0lb6iCePfkvPULc4UqDnRe",
+      "obj_token": "EJBwdLyAwotI9oxuCwpcere6nzx",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/ItA5w0lb6iCePfkvPULc4UqDnRe",
+      "read_ok": true,
+      "revision_id": 7,
+      "content_character_count": 15,
+      "body_persisted": false,
+      "technical_sample_not_imported": true
+    },
+    {
+      "space_id": "7293098885122621443",
+      "title": "3DGS",
+      "node_token": "O1HHw83TLih9Isk8yslcC6MFnnq",
+      "obj_token": "M8OIduKU9oIpuHxXbHMcqdpNnBf",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/O1HHw83TLih9Isk8yslcC6MFnnq",
+      "read_ok": true,
+      "revision_id": 63,
+      "content_character_count": 220,
+      "body_persisted": false,
+      "technical_sample_not_imported": true
+    }
+  ],
+  "branch_results": [
+    {
+      "branch": "technical_space_root",
+      "result": {
+        "ok": true,
+        "identity": "user",
+        "data": {
+          "has_more": false,
+          "nodes": [
+            {
+              "has_child": false,
+              "node_token": "Nrk4wlkMsiS2pVk6WSBcy442n7f",
+              "node_type": "origin",
+              "obj_token": "HJwjdplbeof6rzx2Vg6cbmqTn1e",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "欢迎来到爱化身知识库"
+            },
+            {
+              "has_child": true,
+              "node_token": "X68pwrvVsit7X4k2E3Tc42S0nzb",
+              "node_type": "origin",
+              "obj_token": "Bo9pdZAhMomY43xzXsycUlfMnDd",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "GitOps"
+            },
+            {
+              "has_child": true,
+              "node_token": "Ya9xwPSRei7YB5kBCXccdqk5nxN",
+              "node_type": "origin",
+              "obj_token": "YqtQdj6gnoQ3ncxBTmkc4BRknNg",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "微服务/容器/集群"
+            },
+            {
+              "has_child": true,
+              "node_token": "FZvhwJKUbiMFg6kEuKZc8S3On8g",
+              "node_type": "origin",
+              "obj_token": "CwILdgRv8oX7zcxV442cqmeFnRb",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "IT"
+            },
+            {
+              "has_child": true,
+              "node_token": "Al3SwByyBi3S51k68vOcGnJmnPc",
+              "node_type": "origin",
+              "obj_token": "NrIEdDGIuod2aBxB1zcc5dSznzc",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "开发"
+            },
+            {
+              "has_child": true,
+              "node_token": "KRgSwQPbyilS5VkKjIXcY7sHnPg",
+              "node_type": "origin",
+              "obj_token": "I00CdoMocoY8CexnASsc1Db3nOf",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "DCC"
+            },
+            {
+              "has_child": true,
+              "node_token": "XIcIw0mLEir4jQk8xVWc2jjEnuf",
+              "node_type": "origin",
+              "obj_token": "Nu9vd8njToWJDYxIaKTc9fo0nTh",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "AIGC"
+            },
+            {
+              "has_child": true,
+              "node_token": "XSR6w45gHic5YRkCFBDcQzZpnLe",
+              "node_type": "origin",
+              "obj_token": "WlgKdffnKo6128xkJeCcAsfkn7g",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "CI/CD"
+            },
+            {
+              "has_child": true,
+              "node_token": "P4Mgw4Letii8JMkR9L3cH1yXn3e",
+              "node_type": "origin",
+              "obj_token": "ADc9diYFtonnh4x6R8RcXXd6nmg",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "技术栈"
+            },
+            {
+              "has_child": true,
+              "node_token": "TCnqwdn3ji7r1hkS1VEcrfIVnZf",
+              "node_type": "origin",
+              "obj_token": "PYgsdGgawoJvpHxsiSGcNTJxnKc",
+              "obj_type": "docx",
+              "parent_node_token": "",
+              "space_id": "7293098885122621443",
+              "title": "流媒体"
+            }
+          ],
+          "page_token": ""
+        },
+        "meta": {
+          "count": 10
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "branch": "products",
+      "result": {
+        "ok": true,
+        "identity": "user",
+        "data": {
+          "has_more": false,
+          "nodes": [],
+          "page_token": ""
+        },
+        "meta": {},
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "branch": "tech_开发",
+      "result": {
+        "ok": true,
+        "identity": "user",
+        "data": {
+          "has_more": false,
+          "nodes": [
+            {
+              "has_child": true,
+              "node_token": "De3FwGjT3iJGFakilwmc7V7Tnog",
+              "node_type": "origin",
+              "obj_token": "IfI6dnuqJoGPiPxgUhicFWtgnJb",
+              "obj_type": "docx",
+              "parent_node_token": "Al3SwByyBi3S51k68vOcGnJmnPc",
+              "space_id": "7293098885122621443",
+              "title": ".Net"
+            },
+            {
+              "has_child": false,
+              "node_token": "PQRewmSPsiLthQkkPMMcc32YnOd",
+              "node_type": "origin",
+              "obj_token": "POXSd5hwSo9gwKxxCYEckSEunLM",
+              "obj_type": "docx",
+              "parent_node_token": "Al3SwByyBi3S51k68vOcGnJmnPc",
+              "space_id": "7293098885122621443",
+              "title": "Unity"
+            },
+            {
+              "has_child": false,
+              "node_token": "YdPEwPFSMi5TdgkLdjpc4uajn0g",
+              "node_type": "origin",
+              "obj_token": "Z2ooditS6oFSRixIulzc8LFEnFf",
+              "obj_type": "docx",
+              "parent_node_token": "Al3SwByyBi3S51k68vOcGnJmnPc",
+              "space_id": "7293098885122621443",
+              "title": "自签名 HTTPS 证书"
+            }
+          ],
+          "page_token": ""
+        },
+        "meta": {
+          "count": 3
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "branch": "tech_技术栈",
+      "result": {
+        "ok": true,
+        "identity": "user",
+        "data": {
+          "has_more": false,
+          "nodes": [
+            {
+              "has_child": false,
+              "node_token": "ItA5w0lb6iCePfkvPULc4UqDnRe",
+              "node_type": "origin",
+              "obj_token": "EJBwdLyAwotI9oxuCwpcere6nzx",
+              "obj_type": "docx",
+              "parent_node_token": "P4Mgw4Letii8JMkR9L3cH1yXn3e",
+              "space_id": "7293098885122621443",
+              "title": "GAG Techstack"
+            },
+            {
+              "has_child": false,
+              "node_token": "O1HHw83TLih9Isk8yslcC6MFnnq",
+              "node_type": "origin",
+              "obj_token": "M8OIduKU9oIpuHxXbHMcqdpNnBf",
+              "obj_type": "docx",
+              "parent_node_token": "P4Mgw4Letii8JMkR9L3cH1yXn3e",
+              "space_id": "7293098885122621443",
+              "title": "3DGS"
+            }
+          ],
+          "page_token": ""
+        },
+        "meta": {
+          "count": 2
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    },
+    {
+      "branch": "tech_AIGC",
+      "result": {
+        "ok": true,
+        "identity": "user",
+        "data": {
+          "has_more": false,
+          "nodes": [
+            {
+              "has_child": true,
+              "node_token": "ZsquwN9QZi0LHnkTLWLc6gRvnqc",
+              "node_type": "origin",
+              "obj_token": "LRcMdoGs1oQ6bPxbOQgcqxM3nJh",
+              "obj_type": "docx",
+              "parent_node_token": "XIcIw0mLEir4jQk8xVWc2jjEnuf",
+              "space_id": "7293098885122621443",
+              "title": "开源技术汇总"
+            },
+            {
+              "has_child": false,
+              "node_token": "TzZRw4mOpiLoCJkxJcrcAuKgnbd",
+              "node_type": "origin",
+              "obj_token": "PG4xdBO5IoS6vTxMHUncH4uUnme",
+              "obj_type": "docx",
+              "parent_node_token": "XIcIw0mLEir4jQk8xVWc2jjEnuf",
+              "space_id": "7293098885122621443",
+              "title": "呆兔"
+            }
+          ],
+          "page_token": ""
+        },
+        "meta": {
+          "count": 2
+        },
+        "_notice": {
+          "update": {
+            "command": "lark-cli update",
+            "current": "1.0.95",
+            "latest": "1.0.96",
+            "message": "lark-cli 1.0.96 available, current 1.0.95, run: lark-cli update"
+          }
+        }
+      }
+    }
+  ],
+  "limits": [
+    "Not a recursive export of either space.",
+    "Technical sample bodies were not persisted; welcome page includes operational configuration, so only minimal verification metadata retained.",
+    "No remote edits, credential usage, platform operations, or permission changes."
+  ]
+}
+

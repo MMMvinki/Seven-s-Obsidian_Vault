@@ -50,6 +50,6 @@ source_ids:
 
 ## 来源与适用边界
 
-- [[ahswiki/90-原始资料/飞书/2026-09-19/FS-014-原文.md|FS-014 原文快照]] · [飞书原文](https://xqmqf98k8t.feishu.cn/wiki/ANSKwgQS6iKgXqkixgRcWCyKnSg) · revision 1
+- [[ahswiki/raw/飞书/2026-09-19/FS-014-原文.md|FS-014 原文快照]] · [飞书原文](https://xqmqf98k8t.feishu.cn/wiki/ANSKwgQS6iKgXqkixgRcWCyKnSg) · revision 1
 - 主要依据：数字广东售前问答 1—26 及三层知识卡片。
 - 本页是 2026-09-19 根据可访问原文整理的知识摘要，未由业务负责人复核；采集日期不代表原文更新日期。

@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "captured_on": "2026-09-19",
   "space_id": "7649949026715978701",
   "space_name": "AHS企业知识库",
@@ -16,13 +16,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "empty_placeholder",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-001.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-001.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "E696502B4AB190467DD71AEBA45A83A44209DBC68374E921E239BA5C39C977EC"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-002",
@@ -35,13 +36,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "empty_placeholder",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-002.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-002.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "F573112FF7BC24038DB42589B161AA996902E9840BE9D6769846F90C548CA6E4"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-003",
@@ -54,13 +56,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-003.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-003.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "C894CC185F5E27C581CA46EC4BDAF1DC04B3F77033105F8644C56AA8E5571AD8"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-004",
@@ -73,13 +76,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-004.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-004.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "F29E5AF50A7B9434A61319AAA833EDE2E330E0747EC4216F5D0DA89E0DCD40FE"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-005",
@@ -92,13 +96,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-005.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-005.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "19705680BD8FD5DDE6CE056135DBD1455A0521ACBB329538A945FD8D7596ACFA"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-006",
@@ -111,13 +116,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-006.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-006.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "18BA01F33D41D80341350DDC2EE57D2A4F3358CD20616BF82B0284ECFBA10E5C"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-007",
@@ -130,13 +136,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "empty_placeholder",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-007.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-007.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "D871F5516B447E2C512CA08BFFE17777793407488A744A14068CB34724504FAD"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-008",
@@ -149,13 +156,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "empty_placeholder",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-008.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-008.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "FABB5BE46137C9547238D35CD1FEE47EEBDBE93C7EBD1C414EF73AB66B5CA876"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-009",
@@ -168,13 +176,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "empty_placeholder",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-009.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-009.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "2DC64E3E51ACED77C36D05459D5557CAF1A555EF624B43D097EFEFA2583D4D02"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-010",
@@ -187,7 +196,7 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-010.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-010.json",
       "md_path": null,
       "redactions": [
         "temporary_login_query_parameter"
@@ -195,7 +204,8 @@
       "media_captured": false,
       "sha256": {
         "json_path": "6CBAEE106AB77DA7484EC931B41D443712B78C0A9C6A55DCDA8FB6DD1AE9A6D9"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-011",
@@ -208,14 +218,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-011.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-011-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-011.json",
+      "md_path": "raw/飞书/2026-09-19/FS-011-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "94A826E147C8465E97F3B3D1F32A90695AEFC947E1C9C995D5B4D8D59E829053",
         "md_path": "549D886962F640077D50F0CB5C1A072469EF251651ABB1CF1FADC290D79BEAF0"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-012",
@@ -228,14 +239,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-012.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-012-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-012.json",
+      "md_path": "raw/飞书/2026-09-19/FS-012-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "68AD66AF53D7D5FE1848DFBD11942787AE01A34ED421880695450E8DFBD9E291",
         "md_path": "D5F827FBF0F82BEC06335BCBBC4D4CFEBFE47EAD76CDC826EFECD1E28F48D954"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-013",
@@ -248,14 +260,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-013.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-013-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-013.json",
+      "md_path": "raw/飞书/2026-09-19/FS-013-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "9A5BAFF0AEFDA5698E4D5BEEC962F0A7BD9FAD9ADF4378F1A877E4B7ED3F06D4",
         "md_path": "B695D0829F7D66ACC881A48238A6D1D4CD4DAD5A7FDFE80CCA54E5088E3529FC"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-014",
@@ -268,14 +281,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-014.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-014-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-014.json",
+      "md_path": "raw/飞书/2026-09-19/FS-014-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "DBE689A51423EA373D6EDE10D36F830CB47624434CFAADAFA8FEA5DDBFD1AA82",
         "md_path": "67A528333162340D7AB61C7DE7BF4D80908E45B524A67F38A27A90F8FCC471A8"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-015",
@@ -288,13 +302,14 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "index_card",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-015.json",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-015.json",
       "md_path": null,
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "FEB504301C87C002A0779082B2C51A54085717152212993112987690C26A1A00"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-016",
@@ -307,14 +322,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-016.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-016-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-016.json",
+      "md_path": "raw/飞书/2026-09-19/FS-016-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "8D922AB19E16DBFFF325CE1A2DC09BDA35A4F04107B971186D7AC62188D6F9EB",
         "md_path": "EC4AB4679A8497A4F2C37B896FDF7CCE9B3A6C52753210F0EF2251392054C17E"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-017",
@@ -327,14 +343,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-017.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-017-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-017.json",
+      "md_path": "raw/飞书/2026-09-19/FS-017-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "6590547F6A666AD2FECDAE36DD7D97066F26536C76BE3837E754F2E05FE33A68",
         "md_path": "D3E9FF52FBF81E4BFE65442EBDD0BD14F6C8BB3D8FBCA2C430E6891DAF1918C0"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-018",
@@ -347,14 +364,15 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "document",
-      "json_path": "90-原始资料/飞书/2026-09-19/抓取记录/FS-018.json",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-018-原文.md",
+      "json_path": "raw/飞书/2026-09-19/抓取记录/FS-018.json",
+      "md_path": "raw/飞书/2026-09-19/FS-018-原文.md",
       "redactions": [],
       "media_captured": false,
       "sha256": {
         "json_path": "69B6060786BBA26137C2F27DB4BC0EB080059015C8FFF7941A29D4BDC028E7DC",
         "md_path": "B3796735B68E3DAB2BA0E9F8770C76DF7EFDED3D64E89A03FF99DD2FA4F97FE9"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-019",
@@ -367,8 +385,8 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "docx_attachment",
-      "binary_path": "90-原始资料/飞书/2026-09-19/爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-019-原文.md",
+      "binary_path": "raw/飞书/2026-09-19/爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "md_path": "raw/飞书/2026-09-19/FS-019-原文.md",
       "extraction": "OOXML paragraphs in document order; tables flattened; layout and images not reviewed",
       "tracked_insertions": 0,
       "tracked_deletions": 0,
@@ -376,7 +394,8 @@
       "sha256": {
         "md_path": "74F1BB71D489FD2E05ABA6030AEE3252F1115E8DD24F779574680A4F35953A3C",
         "binary_path": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501"
-      }
+      },
+      "space_id": "7649949026715978701"
     },
     {
       "source_id": "FS-020",
@@ -389,8 +408,8 @@
       "captured_on": "2026-09-19",
       "source_updated_on": null,
       "kind": "docx_attachment",
-      "binary_path": "90-原始资料/飞书/2026-09-19/爱化身科技公司级对外发声与信息使用执行规范.docx",
-      "md_path": "90-原始资料/飞书/2026-09-19/FS-020-原文.md",
+      "binary_path": "raw/飞书/2026-09-19/爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "md_path": "raw/飞书/2026-09-19/FS-020-原文.md",
       "extraction": "OOXML paragraphs in document order; tables flattened; layout and images not reviewed",
       "tracked_insertions": 0,
       "tracked_deletions": 0,
@@ -398,7 +417,152 @@
       "sha256": {
         "md_path": "E60CB6E8B51A2E423422D9DFF42F3E38C9B43AE566D963A9E471B77CB86D58CC",
         "binary_path": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723"
-      }
+      },
+      "space_id": "7649949026715978701"
+    },
+    {
+      "source_id": "FS-021",
+      "key": "supplement_THIqdm5iJoVmVKxWUtEcljWQnfg",
+      "title": "员工手册",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/EyKTwxR1Hi47VXkK7Z5cDXA9nUf",
+      "node_token": "EyKTwxR1Hi47VXkK7Z5cDXA9nUf",
+      "obj_token": "THIqdm5iJoVmVKxWUtEcljWQnfg",
+      "revision_id": 7,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-021.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-022",
+      "key": "supplement_IzW7dpmSJoJD1JxrxobcJMBxnDc",
+      "title": "组织架构",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+      "node_token": "SdJ1wJ0Sti3Bc5kADHMcO2ZLndh",
+      "obj_token": "IzW7dpmSJoJD1JxrxobcJMBxnDc",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-022.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-023",
+      "key": "supplement_MPlPdogRmow0m4xtHBNcrGgxn2g",
+      "title": "财务",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/VHS9wnenGidegTkgsHZctQIRnkd",
+      "node_token": "VHS9wnenGidegTkgsHZctQIRnkd",
+      "obj_token": "MPlPdogRmow0m4xtHBNcrGgxn2g",
+      "revision_id": 2,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-023.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-024",
+      "key": "supplement_R22SdHl52ouuouxzLWkc9f0bnPh",
+      "title": "入职与融入",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/JqOFwk76TiSh60kZFykcgpthn3b",
+      "node_token": "JqOFwk76TiSh60kZFykcgpthn3b",
+      "obj_token": "R22SdHl52ouuouxzLWkc9f0bnPh",
+      "revision_id": 3,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-024.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-025",
+      "key": "supplement_NdbFd2c9aoSISlxOWkVc4Nzon0e",
+      "title": "培训与发展",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/FyeawwDsKiDDZlkBEPccNZndnjg",
+      "node_token": "FyeawwDsKiDDZlkBEPccNZndnjg",
+      "obj_token": "NdbFd2c9aoSISlxOWkVc4Nzon0e",
+      "revision_id": 5,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-025.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-026",
+      "key": "supplement_Yfczd53SDoH7JaxGs1dcyGwZnae",
+      "title": "爱化身员工差旅和费用报销流程",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/VJ4twBrUCiuROOk061Ncuk61nag",
+      "node_token": "VJ4twBrUCiuROOk061Ncuk61nag",
+      "obj_token": "Yfczd53SDoH7JaxGs1dcyGwZnae",
+      "revision_id": 3004,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "document",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-026.json",
+      "md_path": "raw/飞书/2026-09-19/企业知识核对/FS-026-爱化身员工差旅和费用报销流程.md",
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "配套流程有正文；文号与修订人占位，发布状态待确认"
+    },
+    {
+      "source_id": "FS-027",
+      "key": "supplement_HHKvdZatqoBCw7xsS2Vcpjg3nrc",
+      "title": "销售与客户",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/PTxowqN0iimbBck5YBmcDuffnig",
+      "node_token": "PTxowqN0iimbBck5YBmcDuffnig",
+      "obj_token": "HHKvdZatqoBCw7xsS2Vcpjg3nrc",
+      "revision_id": 4,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-027.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+    },
+    {
+      "source_id": "FS-028",
+      "key": "supplement_ZJ5ddWigfoLWMkxhedlcJjYintK",
+      "title": "解决方案",
+      "space_id": "7649949026715978701",
+      "source_url": "https://xqmqf98k8t.feishu.cn/wiki/LLBxwcqYtiv708kNXTzc5a2qnGc",
+      "node_token": "LLBxwcqYtiv708kNXTzc5a2qnGc",
+      "obj_token": "ZJ5ddWigfoLWMkxhedlcJjYintK",
+      "revision_id": 2,
+      "captured_on": "2026-09-19",
+      "source_updated_on": null,
+      "kind": "empty_placeholder",
+      "json_path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-028.json",
+      "md_path": null,
+      "redactions": [],
+      "media_captured": false,
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
     }
   ],
   "download_failures": [
@@ -477,5 +641,8 @@
         }
       }
     }
-  ]
+  ],
+  "path_base": "ahswiki",
+  "layout": "raw/ + wiki/ + AGENTS.md",
+  "latest_supplement_on": "2026-09-19"
 }
