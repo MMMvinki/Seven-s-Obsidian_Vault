@@ -1,0 +1,263 @@
+{
+  "checked_on": "2026-09-19",
+  "checked_at": "2026-09-19T23:45:04.3835108+08:00",
+  "baseline_batch": "2026-09-19",
+  "wiki_root": "F:\\Obsidian Vault\\ahswiki",
+  "business_pages": 43,
+  "new_knowledge_pages": 8,
+  "original_business_unchanged": 35,
+  "intentionally_changed_navigation": [
+    "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\MAP.md",
+    "F:\\Obsidian Vault\\ahswiki\\wiki\\00-导航\\INDEX.md"
+  ],
+  "checked_curated_markdown": 53,
+  "checked_wikilinks": 287,
+  "registered_sources": 28,
+  "source_files_checked": 38,
+  "unredacted_credential_query_values": 0,
+  "problems": [],
+  "source_hashes": [
+    {
+      "source_id": "FS-001",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-001.json",
+      "sha256": "E696502B4AB190467DD71AEBA45A83A44209DBC68374E921E239BA5C39C977EC"
+    },
+    {
+      "source_id": "FS-002",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-002.json",
+      "sha256": "F573112FF7BC24038DB42589B161AA996902E9840BE9D6769846F90C548CA6E4"
+    },
+    {
+      "source_id": "FS-003",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-003.json",
+      "sha256": "C894CC185F5E27C581CA46EC4BDAF1DC04B3F77033105F8644C56AA8E5571AD8"
+    },
+    {
+      "source_id": "FS-004",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-004.json",
+      "sha256": "F29E5AF50A7B9434A61319AAA833EDE2E330E0747EC4216F5D0DA89E0DCD40FE"
+    },
+    {
+      "source_id": "FS-005",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-005.json",
+      "sha256": "19705680BD8FD5DDE6CE056135DBD1455A0521ACBB329538A945FD8D7596ACFA"
+    },
+    {
+      "source_id": "FS-006",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-006.json",
+      "sha256": "18BA01F33D41D80341350DDC2EE57D2A4F3358CD20616BF82B0284ECFBA10E5C"
+    },
+    {
+      "source_id": "FS-007",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-007.json",
+      "sha256": "D871F5516B447E2C512CA08BFFE17777793407488A744A14068CB34724504FAD"
+    },
+    {
+      "source_id": "FS-008",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-008.json",
+      "sha256": "FABB5BE46137C9547238D35CD1FEE47EEBDBE93C7EBD1C414EF73AB66B5CA876"
+    },
+    {
+      "source_id": "FS-009",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-009.json",
+      "sha256": "2DC64E3E51ACED77C36D05459D5557CAF1A555EF624B43D097EFEFA2583D4D02"
+    },
+    {
+      "source_id": "FS-010",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-010.json",
+      "sha256": "6CBAEE106AB77DA7484EC931B41D443712B78C0A9C6A55DCDA8FB6DD1AE9A6D9"
+    },
+    {
+      "source_id": "FS-011",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-011.json",
+      "sha256": "94A826E147C8465E97F3B3D1F32A90695AEFC947E1C9C995D5B4D8D59E829053"
+    },
+    {
+      "source_id": "FS-011",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-011-原文.md",
+      "sha256": "549D886962F640077D50F0CB5C1A072469EF251651ABB1CF1FADC290D79BEAF0"
+    },
+    {
+      "source_id": "FS-012",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-012.json",
+      "sha256": "68AD66AF53D7D5FE1848DFBD11942787AE01A34ED421880695450E8DFBD9E291"
+    },
+    {
+      "source_id": "FS-012",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-012-原文.md",
+      "sha256": "D5F827FBF0F82BEC06335BCBBC4D4CFEBFE47EAD76CDC826EFECD1E28F48D954"
+    },
+    {
+      "source_id": "FS-013",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-013.json",
+      "sha256": "9A5BAFF0AEFDA5698E4D5BEEC962F0A7BD9FAD9ADF4378F1A877E4B7ED3F06D4"
+    },
+    {
+      "source_id": "FS-013",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-013-原文.md",
+      "sha256": "B695D0829F7D66ACC881A48238A6D1D4CD4DAD5A7FDFE80CCA54E5088E3529FC"
+    },
+    {
+      "source_id": "FS-014",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-014.json",
+      "sha256": "DBE689A51423EA373D6EDE10D36F830CB47624434CFAADAFA8FEA5DDBFD1AA82"
+    },
+    {
+      "source_id": "FS-014",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-014-原文.md",
+      "sha256": "67A528333162340D7AB61C7DE7BF4D80908E45B524A67F38A27A90F8FCC471A8"
+    },
+    {
+      "source_id": "FS-015",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-015.json",
+      "sha256": "FEB504301C87C002A0779082B2C51A54085717152212993112987690C26A1A00"
+    },
+    {
+      "source_id": "FS-016",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-016.json",
+      "sha256": "8D922AB19E16DBFFF325CE1A2DC09BDA35A4F04107B971186D7AC62188D6F9EB"
+    },
+    {
+      "source_id": "FS-016",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-016-原文.md",
+      "sha256": "EC4AB4679A8497A4F2C37B896FDF7CCE9B3A6C52753210F0EF2251392054C17E"
+    },
+    {
+      "source_id": "FS-017",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-017.json",
+      "sha256": "6590547F6A666AD2FECDAE36DD7D97066F26536C76BE3837E754F2E05FE33A68"
+    },
+    {
+      "source_id": "FS-017",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-017-原文.md",
+      "sha256": "D3E9FF52FBF81E4BFE65442EBDD0BD14F6C8BB3D8FBCA2C430E6891DAF1918C0"
+    },
+    {
+      "source_id": "FS-018",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/抓取记录/FS-018.json",
+      "sha256": "69B6060786BBA26137C2F27DB4BC0EB080059015C8FFF7941A29D4BDC028E7DC"
+    },
+    {
+      "source_id": "FS-018",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-018-原文.md",
+      "sha256": "B3796735B68E3DAB2BA0E9F8770C76DF7EFDED3D64E89A03FF99DD2FA4F97FE9"
+    },
+    {
+      "source_id": "FS-019",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-019-原文.md",
+      "sha256": "E9AD047199BDAA3A8B1DA0CF9196B99103242BF18350064D2F8459187948E2BC"
+    },
+    {
+      "source_id": "FS-019",
+      "field": "binary_path",
+      "path": "raw/飞书/2026-09-19/爱化身企业级AI对客战略与全域转型服务总纲_V1.3.docx",
+      "sha256": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501"
+    },
+    {
+      "source_id": "FS-020",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/FS-020-原文.md",
+      "sha256": "2FB9A9DB44B40EF94C36D5105A2F4D94A494CB789D1215DBA44151B93E0CFF43"
+    },
+    {
+      "source_id": "FS-020",
+      "field": "binary_path",
+      "path": "raw/飞书/2026-09-19/爱化身科技公司级对外发声与信息使用执行规范.docx",
+      "sha256": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723"
+    },
+    {
+      "source_id": "FS-021",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-021.json",
+      "sha256": "16E631ADF6C3DBA5AEEA3C0EDA12475171E1A76ABB178A49E9626DE60958A7A3"
+    },
+    {
+      "source_id": "FS-022",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-022.json",
+      "sha256": "814DF3EA446625D69884F1BACF8CF77E0B9FD386A6FE5F3CFACD85F412AB874B"
+    },
+    {
+      "source_id": "FS-023",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-023.json",
+      "sha256": "E223A686B0F76EA88E3FCEE0AB6E1E7F92BB6D549FDB6321BE3DDFF8BCE37475"
+    },
+    {
+      "source_id": "FS-024",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-024.json",
+      "sha256": "B7596F208EAF670558DD7F44D10A13FD96364AB3851523250D672341CA58ABCE"
+    },
+    {
+      "source_id": "FS-025",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-025.json",
+      "sha256": "6BA81F484BEE13D7F12530CB11DDB969B704EF1403F73B79C5C837C14FB40C78"
+    },
+    {
+      "source_id": "FS-026",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-026.json",
+      "sha256": "15C434E0332A415D87C1E93D6F1AA618B9AEB10D71348B8CDBD15E19ACF67022"
+    },
+    {
+      "source_id": "FS-026",
+      "field": "md_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/FS-026-爱化身员工差旅和费用报销流程.md",
+      "sha256": "6B3A4869D78BF3AEA9A5A6657BAF4E191FE5B4839184FC943ADB7AE0F97B71CC"
+    },
+    {
+      "source_id": "FS-027",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-027.json",
+      "sha256": "833DA3750D7E298630293650DF161ED5458947F842774C51447E86CFA776399A"
+    },
+    {
+      "source_id": "FS-028",
+      "field": "json_path",
+      "path": "raw/飞书/2026-09-19/企业知识核对/抓取记录/FS-028.json",
+      "sha256": "ED6473DE2BC8DA4A6A13A95ACE21186B7CC6710652FB32B6F11CAD1E66CAF90D"
+    }
+  ],
+  "exclusions": [
+    "Historical raw/ references are documented source debt, not resolved links.",
+    "Imported raw source links and remote media are not checked for availability.",
+    "No visual Obsidian rendering or business-owner approval is asserted."
+  ],
+  "migration_verification": {
+    "original_files": 87,
+    "missing_files": 0,
+    "previous_source_files": 29,
+    "source_files_byte_identical": 27,
+    "source_markdown_generated_navigation_only_changed": 2,
+    "unexpected_source_body_changes": 0,
+    "source_note": "Raw DOCX binaries and fetch JSON remain byte-identical. Only two tool-generated DOCX navigation wrapper links changed."
+  }
+}

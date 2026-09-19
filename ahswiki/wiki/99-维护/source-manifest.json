@@ -392,7 +392,7 @@
       "tracked_deletions": 0,
       "has_comments": false,
       "sha256": {
-        "md_path": "74F1BB71D489FD2E05ABA6030AEE3252F1115E8DD24F779574680A4F35953A3C",
+        "md_path": "E9AD047199BDAA3A8B1DA0CF9196B99103242BF18350064D2F8459187948E2BC",
         "binary_path": "C3B24CF129DE5646009A3512DA553815FFF1E919FEE700077E7E102E3D74E501"
       },
       "space_id": "7649949026715978701"
@@ -415,7 +415,7 @@
       "tracked_deletions": 0,
       "has_comments": false,
       "sha256": {
-        "md_path": "E60CB6E8B51A2E423422D9DFF42F3E38C9B43AE566D963A9E471B77CB86D58CC",
+        "md_path": "2FB9A9DB44B40EF94C36D5105A2F4D94A494CB789D1215DBA44151B93E0CFF43",
         "binary_path": "907734E692B6CA43D53BE9EB6F502FC4AF8537FED50D56C6A18B36BD13368723"
       },
       "space_id": "7649949026715978701"
@@ -436,7 +436,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "16E631ADF6C3DBA5AEEA3C0EDA12475171E1A76ABB178A49E9626DE60958A7A3"
+      }
     },
     {
       "source_id": "FS-022",
@@ -454,7 +457,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "814DF3EA446625D69884F1BACF8CF77E0B9FD386A6FE5F3CFACD85F412AB874B"
+      }
     },
     {
       "source_id": "FS-023",
@@ -472,7 +478,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "E223A686B0F76EA88E3FCEE0AB6E1E7F92BB6D549FDB6321BE3DDFF8BCE37475"
+      }
     },
     {
       "source_id": "FS-024",
@@ -490,7 +499,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "B7596F208EAF670558DD7F44D10A13FD96364AB3851523250D672341CA58ABCE"
+      }
     },
     {
       "source_id": "FS-025",
@@ -508,7 +520,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "6BA81F484BEE13D7F12530CB11DDB969B704EF1403F73B79C5C837C14FB40C78"
+      }
     },
     {
       "source_id": "FS-026",
@@ -526,7 +541,11 @@
       "md_path": "raw/飞书/2026-09-19/企业知识核对/FS-026-爱化身员工差旅和费用报销流程.md",
       "redactions": [],
       "media_captured": false,
-      "verification_note": "配套流程有正文；文号与修订人占位，发布状态待确认"
+      "verification_note": "配套流程有正文；文号与修订人占位，发布状态待确认",
+      "sha256": {
+        "json_path": "15C434E0332A415D87C1E93D6F1AA618B9AEB10D71348B8CDBD15E19ACF67022",
+        "md_path": "6B3A4869D78BF3AEA9A5A6657BAF4E191FE5B4839184FC943ADB7AE0F97B71CC"
+      }
     },
     {
       "source_id": "FS-027",
@@ -544,7 +563,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "833DA3750D7E298630293650DF161ED5458947F842774C51447E86CFA776399A"
+      }
     },
     {
       "source_id": "FS-028",
@@ -562,7 +584,10 @@
       "md_path": null,
       "redactions": [],
       "media_captured": false,
-      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料"
+      "verification_note": "本次CLI正文仅返回标题；不据此断定企业没有该类材料",
+      "sha256": {
+        "json_path": "ED6473DE2BC8DA4A6A13A95ACE21186B7CC6710652FB32B6F11CAD1E66CAF90D"
+      }
     }
   ],
   "download_failures": [
